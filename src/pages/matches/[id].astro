@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import matches from '../../data/matches.js';
+
+export function getStaticPaths() {
+  return matches.map(match => ({ params: { id: match.id }, props: { match } }));
+}
+
+const { match } = Astro.props;
+const title = `${match.homeTeam} ${match.score} ${match.awayTeam}`;
+const table = match.tableAfter || [];
+---
+
+<BaseLayout title={`${title} • Hearts 2025/26`}>
+  <header class="match-hero">
+    <img
+      src="/images/hearts-badge.png"
+      alt="Hearts badge"
+      class="hero-badge"
+    />
+
+    <div class="match-title">
+      <a class="back" href="/">← Back to all matches</a>
+      <div class="kicker">{match.displayDate} • {match.competition}</div>
+      <h1>{title}</h1>
+      <div class="badges">
+        <span class={`badge ${match.result}`}>{match.result}</span>
+        <span class="badge">{match.venue}</span>
+        {match.youtubeId && <span class="badge">Highlights available</span>}
+      </div>
+    </div>
+  </header>
+
+  <main class="shell detail-layout">
+    <section>
+      <div class="panel">
+        {match.youtubeId ? (
+          <div class="video">
+            <iframe src={`https://www.youtube.com/embed/${match.youtubeId}`} title={match.youtubeTitle || title} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        ) : <div class="empty">No YouTube highlights added yet.</div>}
+      </div>
+
+      <div class="panel">
+        <h2>Match summary</h2>
+
+        {match.summary ? (
+          <p class="summary-text">{match.summary}</p>
+        ) : (
+          <div class="empty">
+            Match summary coming soon.
+          </div>
+        )}
+      </div>
+
+      <div class="panel">
+        <h2>Photos and memories</h2>
+
+        {match.images?.length ? (
+          <>
+            <div class="gallery">
+              {match.images.map((image) => (
+                <img
+                  src={image}
+                  alt={title}
+                />
+              ))}
+            </div>
+
+            <div id="lightbox" class="lightbox">
+              <button id="lightbox-close">&times;</button>
+              <img id="lightbox-image" src="" alt="" />
+            </div>
+          </>
+        ) : (
+          <div class="image-placeholder">
+            Add images in <code>public/images</code>, then add them to <code>matches.js</code>.
+          </div>
+        )}
+      </div>
+
+      <script is:inline>
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImage = document.getElementById('lightbox-image');
+        const closeButton = document.getElementById('lightbox-close');
+
+        document.querySelectorAll('.gallery img').forEach((img) => {
+          img.addEventListener('click', () => {
+            lightboxImage.src = img.src;
+            lightbox.classList.add('show');
+          });
+        });
+
+        closeButton.addEventListener('click', () => {
+          lightbox.classList.remove('show');
+        });
+
+        lightbox.addEventListener('click', (e) => {
+          if (e.target === lightbox) {
+            lightbox.classList.remove('show');
+          }
+        });
+      </script>
+    </section>
+
+    <aside>
+      <div class="panel">
+        <h2>Match details</h2>
+        <p><strong>Date:</strong> {match.displayDate}</p>
+        <p><strong>Competition:</strong> {match.competition}</p>
+        <p><strong>Venue:</strong> {match.venue}</p>
+        <p><strong>Opponent:</strong> {match.opponent}</p>
+      </div>
+
+      <div class="panel">
+        <h2>League table after match</h2>
+        {table.length ? (
+          <div class="table-wrap">
+            <table class="league-table">
+              <thead><tr><th>Pos</th><th>Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>GD</th><th>Pts</th></tr></thead>
+              <tbody>
+                {table.map(row => (
+                  <tr class={String(row.team).toLowerCase().includes('heart') || String(row.team).toLowerCase() === 'hearts' ? 'hearts' : ''}>
+                    <td>{row.position}</td><td>{row.team}</td><td>{row.played}</td><td>{row.won}</td><td>{row.drawn}</td><td>{row.lost}</td><td>{row.gd}</td><td>{row.points}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        ) : <div class="empty">No league table snapshot for this match. Cup games do not affect the league table.</div>}
+      </div>
+    </aside>
+  </main>
+</BaseLayout>
