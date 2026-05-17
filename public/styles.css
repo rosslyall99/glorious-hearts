@@ -270,3 +270,37 @@ input, select {
   line-height: 1;
   margin: 10px 0;
 }
+
+@media (max-width: 768px) {
+  .score-banner {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  .score-column {
+    align-items: center;
+  }
+
+  .score-column.away {
+    align-items: center;
+  }
+
+  .team-name {
+    font-size: 2.2rem;
+    line-height: 1;
+  }
+
+  .big-scoreline {
+    font-size: 4rem;
+    line-height: 1;
+  }
+
+  .score-column div {
+    font-size: 0.95rem;
+  }
+
+  .match-hero {
+    padding: 2rem 1rem;
+  }
+}
