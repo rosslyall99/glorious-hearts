@@ -9,6 +9,8 @@ export function getStaticPaths() {
 const { match } = Astro.props;
 const title = `${match.homeTeam} ${match.score} ${match.awayTeam}`;
 const table = match.tableAfter || [];
+const homeGoals = (match.goals || []).filter(goal => goal.team === match.homeTeam);
+const awayGoals = (match.goals || []).filter(goal => goal.team === match.awayTeam);
 ---
 
 <BaseLayout title={`${title} • Hearts 2025/26`}>
@@ -21,13 +23,40 @@ const table = match.tableAfter || [];
 
     <div class="match-title">
       <a class="back" href="/">← Back to all matches</a>
-      <div class="kicker">{match.displayDate} • {match.competition}</div>
-      <h1>{title}</h1>
-      <div class="badges">
-        <span class={`badge ${match.result}`}>{match.result}</span>
-        <span class="badge">{match.venue}</span>
-        {match.youtubeId && <span class="badge">Highlights available</span>}
+
+      <div class="kicker">
+        {match.displayDate} • {match.competition}
       </div>
+
+      {match.goals?.length ? (
+        <div class="score-banner">
+
+          <div class="score-column home">
+            <div class="team-name">{match.homeTeam}</div>
+
+            {homeGoals.map(goal => (
+              <div>{goal.scorer} <span>{goal.minute}'</span></div>
+            ))}
+          </div>
+
+          <div class="score-column centre">
+            <div class="big-scoreline">
+               {match.score}
+            </div>
+          </div>
+
+          <div class="score-column away">
+            <div class="team-name">{match.awayTeam}</div>
+
+            {awayGoals.map(goal => (
+              <div>{goal.scorer} <span>{goal.minute}'</span></div>
+            ))}
+          </div>
+
+        </div>
+      ) : (
+        <h1>{title}</h1>
+      )}
     </div>
   </header>
 

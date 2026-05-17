@@ -63,23 +63,16 @@ const months = [...new Set(matches.map(m => m.month).filter(Boolean))];
                   <span>{match.venue}</span>
                 </div>
 
+                <div class="badges">
+                  <span class="badge">
+                    {match.competition}
+                  </span>
+                </div>
+                
                 <div class="scoreline">
                   {match.homeTeam} {match.score} {match.awayTeam}
                 </div>
 
-                <div class="badges">
-                  <span class={`badge ${match.result}`}>
-                    {match.result}
-                  </span>
-
-                  <span class="badge">
-                    {match.competition}
-                  </span>
-
-                  {match.youtubeId && (
-                    <span class="badge">Highlights</span>
-                  )}
-                </div>
               </div>
             </a>
         ))}
