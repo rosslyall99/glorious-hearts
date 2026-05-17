@@ -25,8 +25,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
-  {
-    "id": "2025-07-15-hamilton-academical-hearts",
+  {"id": "2025-07-15-hamilton-academical-hearts",
     "date": "2025-07-15",
     "displayDate": "Tue 15 Jul 2025",
     "month": "July",
@@ -50,8 +49,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
-  {
-    "id": "2025-07-19-stirling-albion-hearts",
+  {"id": "2025-07-19-stirling-albion-hearts",
     "date": "2025-07-19",
     "displayDate": "Sat 19 Jul 2025",
     "month": "July",
@@ -75,8 +73,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
-  {
-    "id": "2025-07-23-hearts-dumbarton",
+  {"id": "2025-07-23-hearts-dumbarton",
     "date": "2025-07-23",
     "displayDate": "Wed 23 Jul 2025",
     "month": "July",
@@ -100,8 +97,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
-  {
-    "id": "2025-08-04-hearts-aberdeen",
+  {"id": "2025-08-04-hearts-aberdeen",
     "date": "2025-08-04",
     "displayDate": "Mon 4 Aug 2025",
     "month": "August",
@@ -274,8 +270,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-08-10-dundee-united-hearts",
+  {"id": "2025-08-10-dundee-united-hearts",
     "date": "2025-08-10",
     "displayDate": "Sun 10 Aug 2025",
     "month": "August",
@@ -450,8 +445,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-08-16-st-mirren-hearts",
+  {"id": "2025-08-16-st-mirren-hearts",
     "date": "2025-08-16",
     "displayDate": "Sat 16 Aug 2025",
     "month": "August",
@@ -477,8 +471,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
-  {
-    "id": "2025-08-23-hearts-motherwell",
+  {"id": "2025-08-23-hearts-motherwell",
     "date": "2025-08-23",
     "displayDate": "Sat 23 Aug 2025",
     "month": "August",
@@ -653,8 +646,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-08-30-livingston-hearts",
+  {"id": "2025-08-30-livingston-hearts",
     "date": "2025-08-30",
     "displayDate": "Sat 30 Aug 2025",
     "month": "August",
@@ -827,8 +819,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-09-13-rangers-hearts",
+  {"id": "2025-09-13-rangers-hearts",
     "date": "2025-09-13",
     "displayDate": "Sat 13 Sep 2025",
     "month": "September",
@@ -1001,8 +992,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-09-27-hearts-falkirk",
+  {"id": "2025-09-27-hearts-falkirk",
     "date": "2025-09-27",
     "displayDate": "Sat 27 Sep 2025",
     "month": "September",
@@ -1175,8 +1165,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-10-04-hearts-hibernian",
+  {"id": "2025-10-04-hearts-hibernian",
     "date": "2025-10-04",
     "displayDate": "Sat 4 Oct 2025",
     "month": "October",
@@ -1349,8 +1338,7 @@ export default [
       }
     ]
   },
-  {
-    "id": "2025-10-18-kilmarnock-hearts",
+  {"id": "2025-10-18-kilmarnock-hearts",
     "date": "2025-10-18",
     "displayDate": "Sat 18 Oct 2025",
     "month": "October",
@@ -1541,16 +1529,14 @@ export default [
     "youtubeUrl": "https://www.youtube.com/watch?v=LXlr-7YCnPg",
     "youtubeId": "LXlr-7YCnPg",
     "youtubeTitle": "Heart of Midlothian 3-1 Celtic | HIGHLIGHTS | William Hill Premiership",
-    "summary": `One of the defining moments of Hearts’ season and the sort of result supporters will talk about for years. The atmosphere, the importance of the occasion and the manner of the performance combined to create one of those unforgettable afternoons where Tynecastle – or the travelling support – felt completely alive.
-    
-    Hearts played with aggression, confidence and belief throughout long spells of the match. Even when momentum shifted, there was a resilience about the side that kept them in control emotionally. Big players stepped up in the key moments and the team never looked overawed by the occasion.
-    
-    There were naturally periods of pressure and tension, particularly against opposition of this calibre, but Hearts continued to compete and carried a genuine threat whenever they broke forward. The supporters sensed that this team had developed a mentality capable of standing toe-to-toe with anyone in the division.
-    
-    As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
-    
-    By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
-    "image": "",
+    "summary": `Hearts delivered another huge statement in the Scottish Premiership title race by defeating Celtic 3-1 at a raucous Tynecastle to move eight points clear at the top of the table. Derek McInnes’ side produced an energetic, fearless display that overwhelmed the reigning champions and intensified growing belief that Hearts could mount a genuine challenge for their first league title since 1960.
+
+    Hearts made the perfect start when Dane Murray inadvertently turned the ball into his own net after sustained pressure from the hosts. Celtic responded quickly through captain Callum McGregor, whose composed finish capped a slick passing move to level the match. Brendan Rodgers’ side briefly looked capable of taking control and Benjamin Nygren missed a huge opportunity to put the visitors ahead when Alexander Schwolow saved from close range after the winger opted for placement over power.
+
+    The turning point came as Hearts rediscovered their intensity and attacking aggression before half-time. Alexandros Kyziridis, one of the standout performers of the season so far, drilled a superb low strike beyond Kasper Schmeichel from the edge of the area to restore Hearts’ lead. Moments later, Murray’s difficult afternoon worsened when he fouled Claudio Braga inside the box, allowing Lawrence Shankland to confidently convert the resulting penalty and give Hearts breathing space.
+
+    Celtic struggled badly in the second half to recover, hampered by injuries and a lack of attacking sharpness, while Hearts continued to look dangerous on the break and could easily have extended their advantage further. McInnes’ side once again showcased the organisation, work-rate and technical quality that have defined their remarkable start to the campaign, while Rodgers was left searching for answers after Celtic suffered back-to-back league defeats for the first time in two years. With Hearts now holding an eight-point lead at the summit, talk of an unlikely title challenge is only growing louder.`,
+    "images": ["/images/celtic261025.webp", "/images/celtic261025-2.webp"],
     "tags": [],
     "tableAfter": [
       {
