@@ -5908,7 +5908,7 @@ export default [
       }
     ]
   },
-  
+
   {"id": "2026-04-11-hearts-motherwell",
     "date": "2026-04-11",
     "displayDate": "Sat 11 Apr 2026",
@@ -5926,13 +5926,13 @@ export default [
     "youtubeUrl": "https://www.youtube.com/watch?v=phNr4HZfBh4",
     "youtubeId": "phNr4HZfBh4",
     "youtubeTitle": "Heart of Midlothian 3-1 Motherwell | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 3-1 Motherwell was a match that summed up a lot about Hearts during this season: entertaining, intense and never entirely straightforward. There were moments of quality throughout the game and spells where Hearts looked capable of taking complete control.
+    "summary": `Heart of Midlothian produced another dramatic late comeback to defeat Motherwell 3-1 at Tynecastle and preserve their three-point lead at the top of the Scottish Premiership. With pressure mounting after Celtic’s earlier victory over St Mirren and Rangers still to play, Derek McInnes’ side looked in danger of dropping crucial points before scoring twice in the final five minutes to spark wild celebrations.
 
-At the same time, the contest remained competitive deep into the afternoon and Hearts had to show character as well as footballing quality. The side continued to push forward and looked dangerous whenever space opened up.
+    The match was tense and finely balanced throughout, with both sides creating chances in an open first half. Hearts threatened early when Lawrence Shankland fired wide and Claudio Braga dispossessed goalkeeper Calum Ward before Paul McGinn cleared off the line. Ward later redeemed himself with an outstanding save from Oisin McEntee, while at the other end Alexander Schwolow denied Elliot Watt and Ibrahim Said with two impressive stops from distance.
 
-The crowd played a huge role in driving the team on and there was a strong sense of togetherness around the performance. Even when frustration crept in, Hearts kept believing that the game could still swing in their favour.
+    Motherwell seized control shortly after the break when Tawanda Maswanhise burst down the flank and squared for Emmanuel Longelo to slot home at the back post. The visitors looked the more fluid and dangerous side for much of the second half and missed several opportunities to extend their lead, with Longelo, Elijah Just and Maswanhise all passing up promising chances as Hearts struggled to regain momentum.
 
-By the end, the result felt deserved and represented another important step in a season that was building real momentum.`,
+    However, Hearts once again found a way back through sheer resilience and belief. Claudio Braga ignited the comeback with an acrobatic overhead kick from close range after a VAR check confirmed the goal, before the decisive moment arrived five minutes from time when Stephen Welsh caught Pierre Landry Kabore high with his boot inside the area. Shankland calmly converted the resulting penalty before Kabore sealed victory moments later with an excellent solo finish off the near post. The comeback extended Hearts’ remarkable home form and reinforced the growing sense that McInnes’ side possess the mentality required to sustain a genuine title challenge deep into the season.`,
     "goals": [
       { "team": "Motherwell", "scorer": "E. Longelo", "minute": "50" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "61" },
@@ -6088,6 +6088,7 @@ By the end, the result felt deserved and represented another important step in a
       }
     ]
   },
+
   {"id": "2026-04-26-hibernian-hearts",
     "date": "2026-04-26",
     "displayDate": "Sun 26 Apr 2026",
@@ -6105,15 +6106,13 @@ By the end, the result felt deserved and represented another important step in a
     "youtubeUrl": "https://www.youtube.com/watch?v=sJ-T11k9zmM",
     "youtubeId": "sJ-T11k9zmM",
     "youtubeTitle": "Hibernian 1-2 Heart of Midlothian | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hibernian 1-2 Hearts was one of the defining moments of Hearts’ season and the sort of result supporters will talk about for years. The atmosphere, the importance of the occasion and the manner of the performance combined to create one of those unforgettable afternoons where Tynecastle – or the travelling support – felt completely alive.
+    "summary": `Heart of Midlothian restored their three-point lead at the top of the Scottish Premiership after eventually overcoming nine-man Hibernian in a chaotic and emotionally charged Edinburgh derby at Easter Road. Blair Spittal’s late winner finally broke stubborn Hibs resistance after the home side had spent most of the match defending heroically with reduced numbers.
 
-Hearts played with aggression, confidence and belief throughout long spells of the match. Even when momentum shifted, there was a resilience about the side that kept them in control emotionally. Big players stepped up in the key moments and the team never looked overawed by the occasion.
+    Hibs made the perfect start when Martin Boyle, playing what may have been his final derby, fired the hosts ahead after just seven minutes amid a ferocious atmosphere. However, the game swung dramatically soon afterwards when goalkeeper Raphael Sallinger was sent off for handling outside his area. Hibs’ task became even harder moments into the second half when Felix Passlack received a second yellow card, leaving David Gray’s side to survive with only nine men for over 40 minutes.
 
-There were naturally periods of pressure and tension, particularly against opposition of this calibre, but Hearts continued to compete and carried a genuine threat whenever they broke forward. The supporters sensed that this team had developed a mentality capable of standing toe-to-toe with anyone in the division.
+    Despite their overwhelming numerical advantage, Hearts struggled badly to break Hibs down. Substitute goalkeeper Jordan Smith produced a string of excellent saves, Marc Leonard struck the crossbar and countless crosses and corners were repelled as frustration and anxiety spread through the travelling support. Hearts dominated possession and territory but lacked composure and clear openings as Hibs defended desperately and intelligently for long stretches.
 
-As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
-
-By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
+    The pressure finally told when Lawrence Shankland forced the equaliser, with the goal ultimately credited as an own goal by Warren O’Hora after a chaotic scramble in the six-yard box. Even then Hearts continued to labour before Spittal finally delivered the decisive moment, calmly guiding a deflected finish beyond Smith with only minutes remaining. The dramatic comeback maintained Hearts’ position at the summit and reinforced the resilience that has defined their title challenge, while Hibs were left to reflect on a brave but self-inflicted collapse after two costly dismissals undermined an otherwise heroic defensive effort.`,
     "goals": [
       { "team": "Hibernian", "scorer": "M. Boyle", "minute": "7" },
       { "team": "Hearts", "scorer": "W. O'Hora (OG)", "minute": "65" },
@@ -6268,6 +6267,7 @@ By full time, it felt like another major chapter in a season that increasingly c
       }
     ]
   },
+
   {"id": "2026-05-04-hearts-rangers",
     "date": "2026-05-04",
     "displayDate": "Mon 4 May 2026",
@@ -6285,15 +6285,13 @@ By full time, it felt like another major chapter in a season that increasingly c
     "youtubeUrl": "https://www.youtube.com/watch?v=neLQfKfXeeg",
     "youtubeId": "neLQfKfXeeg",
     "youtubeTitle": "Heart of Midlothian 2-1 Rangers | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 2-1 Rangers was one of the defining moments of Hearts’ season and the sort of result supporters will talk about for years. The atmosphere, the importance of the occasion and the manner of the performance combined to create one of those unforgettable afternoons where Tynecastle – or the travelling support – felt completely alive.
+    "summary": `Heart of Midlothian moved to the brink of a remarkable Scottish Premiership title triumph after captain Lawrence Shankland inspired a dramatic 2-1 comeback victory over Rangers at Tynecastle. The result restored Hearts’ three-point lead over Celtic with only three matches remaining and effectively ended Rangers’ fading title hopes.
 
-Hearts played with aggression, confidence and belief throughout long spells of the match. Even when momentum shifted, there was a resilience about the side that kept them in control emotionally. Big players stepped up in the key moments and the team never looked overawed by the occasion.
+    Rangers controlled much of the first half and deservedly went ahead when Dujon Sterling’s volley deflected off Michael Steinwender and looped beyond Alexander Schwolow. Danny Rohl’s side looked sharper and more fluid in transition during the opening stages, while Hearts struggled to impose themselves despite half-chances from Craig Halkett and Alexandros Kyziridis. The visitors also threatened repeatedly from James Tavernier’s long throws and set-pieces, causing uncertainty throughout the Hearts defence.
 
-There were naturally periods of pressure and tension, particularly against opposition of this calibre, but Hearts continued to compete and carried a genuine threat whenever they broke forward. The supporters sensed that this team had developed a mentality capable of standing toe-to-toe with anyone in the division.
+    However, the match completely shifted after the interval as Hearts emerged with greater aggression and confidence. Stephen Kingsley brought the hosts level after Kyziridis’ shot crashed back off the post, before Blair Spittal’s introduction added fresh energy and composure in midfield. Hearts increasingly pinned Rangers back and eventually found the decisive moment when Kingsley chased a loose ball near the byline and delivered for Shankland, who produced a magnificent first-time finish from a tight angle to send Tynecastle into delirium.
 
-As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
-
-By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
+    Rangers almost snatched a late equaliser when Thelo Aasgaard headed against the crossbar, but Hearts held firm to claim another potentially defining victory in their extraordinary campaign. McInnes’ side once again demonstrated the resilience and belief that has carried them through the title race, while Shankland delivered yet another huge contribution in a season filled with decisive moments. With three games remaining, Hearts now stand tantalisingly close to a first league title since 1960 and one of the most improbable triumphs in modern Scottish football.`,
     "goals": [
       { "team": "Rangers", "scorer": "D. Sterling", "minute": "23" },
       { "team": "Hearts", "scorer": "S. Kingsley", "minute": "54" },
@@ -6448,6 +6446,7 @@ By full time, it felt like another major chapter in a season that increasingly c
       }
     ]
   },
+
   {"id": "2026-05-09-motherwell-hearts",
     "date": "2026-05-09",
     "displayDate": "Sat 9 May 2026",
@@ -6465,13 +6464,13 @@ By full time, it felt like another major chapter in a season that increasingly c
     "youtubeUrl": "https://www.youtube.com/watch?v=H492sYH1GH8",
     "youtubeId": "H492sYH1GH8",
     "youtubeTitle": "Motherwell 1-1 Heart of Midlothian | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Motherwell 1-1 Hearts was a match that summed up a lot about Hearts during this season: entertaining, intense and never entirely straightforward. There were moments of quality throughout the game and spells where Hearts looked capable of taking complete control.
+    "summary": `Heart of Midlothian moved four points clear at the top of the Scottish Premiership after battling back to earn a dramatic 1-1 draw away to Motherwell, although Derek McInnes’ side missed the chance to place maximum pressure on Celtic before the Old Firm derby. Lawrence Shankland’s equaliser preserved Hearts’ advantage at the summit and ensured the title race remained firmly in their own hands with two games remaining. 
 
-At the same time, the contest remained competitive deep into the afternoon and Hearts had to show character as well as footballing quality. The side continued to push forward and looked dangerous whenever space opened up.
+    Motherwell started brightly at a packed Fir Park and took the lead when Emmanuel Longelo’s dangerous cross was inadvertently turned into his own net by Stephen Kingsley. Hearts had already threatened through Shankland, whose early effort was brilliantly blocked by Stephen O’Donnell, but the visitors initially looked cautious against one of the league’s strongest home sides. However, Kingsley responded superbly to his earlier mistake by creating the equaliser, with Michael Steinwender’s powerful strike parried into the path of Shankland, who calmly converted. 
 
-The crowd played a huge role in driving the team on and there was a strong sense of togetherness around the performance. Even when frustration crept in, Hearts kept believing that the game could still swing in their favour.
+    A frantic second half followed as Hearts pushed for a potentially decisive winner despite suffering major injury blows to Marc Leonard and Craig Halkett, both of whom damaged their Achilles tendons. The biggest controversy arrived when Hearts were denied what appeared to be a clear penalty after Tawanda Maswanhise stood on Alexandros Kyziridis’ foot inside the box. Referee Steven McLean was sent to the monitor by VAR but stunned both sets of players and supporters by sticking with his original decision not to award a spot-kick. 
 
-By the end, the result felt deserved and represented another important step in a season that was building real momentum.`,
+    Although disappointed not to take all three points, Hearts once again demonstrated the resilience and mentality that has defined their remarkable title challenge, coming from behind for the fifth consecutive match. McInnes’ side remain in control of their destiny and know victory over Falkirk in their penultimate fixture would leave them needing only to avoid defeat at Celtic Park to secure a first league title since 1960. Motherwell, meanwhile, continued their impressive campaign and remain well placed in the race for European football despite extending their winless run. `,
     "goals": [
       { "team": "Motherwell", "scorer": "S. Kingsley (OG)", "minute": "25" },
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "43" }
@@ -6625,6 +6624,7 @@ By the end, the result felt deserved and represented another important step in a
       }
     ]
   },
+
   {"id": "2026-05-13-hearts-falkirk",
     "date": "2026-05-13",
     "displayDate": "Wed 13 May 2026",
@@ -6642,11 +6642,13 @@ By the end, the result felt deserved and represented another important step in a
     "youtubeUrl": "https://www.youtube.com/watch?v=g373M-2w_40",
     "youtubeId": "g373M-2w_40",
     "youtubeTitle": "Heart of Midlothian 3-0 Falkirk | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 3-0 Falkirk turned into a frustrating afternoon for Hearts despite long periods of pressure and control. The game never fully settled and there was always a sense that a single moment could decide it.
+    "summary": `Heart of Midlothian moved to within touching distance of a historic Scottish Premiership title after a commanding 3-0 victory over Falkirk at a feverish Tynecastle. Derek McInnes’ side now know that avoiding defeat against Celtic at Celtic Park on the final day would secure Hearts’ first league championship since 1960 in one of the most dramatic title races Scottish football has seen in decades.
 
-Hearts created opportunities and pushed hard for the breakthrough, but the opposition stayed organised and difficult to break down. As the match wore on, tension grew around the stadium.
+    Amid huge tension and expectation, Hearts eventually settled after an edgy opening in which Calvin Miller briefly thought he had fired Falkirk ahead before being ruled offside. The breakthrough instead came from an unlikely source when centre-back Frankie Kent powered home an Alexandros Kyziridis corner around the half-hour mark, sparking huge celebrations inside Tynecastle. Hearts immediately grew in confidence and took control, with Cammy Devlin soon doubling the lead after reacting quickest to a loose ball inside the box, his deflected effort finding the net.
 
-The final outcome left supporters disappointed, particularly given the expectations going into the tie, but it also highlighted the fine margins that often shape cup football.`,
+    As news filtered through from Motherwell’s clash with Celtic, emotions inside Tynecastle swung wildly throughout the evening. Hearts supporters briefly believed the title could be won there and then before Celtic fought back at Fir Park, but McInnes’ side maintained their focus impressively. Blair Spittal added a brilliant third goal late on, cutting inside and curling a superb finish into the bottom corner to cap another outstanding home performance from the league leaders.
+
+    The victory reinforced the resilience and belief that have driven Hearts’ extraordinary campaign, with key figures such as Kyziridis, Devlin and Spittal all influential on a night loaded with pressure. Although Celtic’s dramatic stoppage-time winner ensured the title race would go down to the final day, Hearts remain firmly in control of their destiny. Having already beaten Celtic once at Parkhead this season and remained unbeaten against them across all three league meetings, McInnes’ side head into the decisive showdown knowing one final result would complete one of Scottish football’s greatest modern fairytales.`,
     "goals": [
       { "team": "Hearts", "scorer": "F. Kent", "minute": "29" },
       { "team": "Hearts", "scorer": "C. Devlin", "minute": "34" },
@@ -6801,6 +6803,7 @@ The final outcome left supporters disappointed, particularly given the expectati
       }
     ]
   },
+
   {"id": "2026-05-16-celtic-hearts",
     "date": "2026-05-16",
     "displayDate": "Sat 16 May 2026",
@@ -6818,15 +6821,13 @@ The final outcome left supporters disappointed, particularly given the expectati
     "youtubeUrl": "",
     "youtubeId": "",
     "youtubeTitle": "",
-    "summary": `Celtic 3-1 Hearts was one of the defining moments of Hearts’ season and the sort of result supporters will talk about for years. The atmosphere, the importance of the occasion and the manner of the performance combined to create one of those unforgettable afternoons where Tynecastle – or the travelling support – felt completely alive.
+    "summary": `Celtic snatched the Scottish Premiership title from Heart of Midlothian in one of the most dramatic finales in modern Scottish football history, coming from behind to win 3-1 at Celtic Park and deny Hearts a first league crown since 1960. Hearts had spent most of the season at the top of the table and only needed a draw on the final day, but late goals from Daizen Maeda and Callum Osmand completed a remarkable turnaround and secured Celtic’s fifth consecutive title. 
 
-Hearts played with aggression, confidence and belief throughout long spells of the match. Even when momentum shifted, there was a resilience about the side that kept them in control emotionally. Big players stepped up in the key moments and the team never looked overawed by the occasion.
+    The tension inside Celtic Park was immense throughout a nervy first half in which chances were scarce, but it was Hearts who struck first just before the interval. Lawrence Shankland rose unmarked at the back post to head home from a Stephen Kingsley corner and put the Edinburgh side within touching distance of an extraordinary triumph. However, Celtic responded immediately in stoppage time when Arne Engels converted a penalty after Alexandros Kyziridis handled Kieran Tierney’s cross, dragging the hosts level before the break. 
 
-There were naturally periods of pressure and tension, particularly against opposition of this calibre, but Hearts continued to compete and carried a genuine threat whenever they broke forward. The supporters sensed that this team had developed a mentality capable of standing toe-to-toe with anyone in the division.
+    Hearts battled bravely after the restart and looked increasingly close to surviving the pressure as the clock ticked down. Celtic threatened repeatedly through Kelechi Iheanacho and Benjamin Nygren, but Alexander Schwolow produced important saves to keep Hearts level. Yet with only minutes remaining, the decisive blow finally arrived when Maeda flicked in an Osmand cross, with VAR correctly overturning an initial offside decision. As Hearts desperately pushed forward in search of the point they needed, Osmand broke away in stoppage time to score a third and spark emotional scenes inside the stadium. 
 
-As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
-
-By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
+    For Celtic, the comeback completed a stunning title recovery after trailing Hearts by eight points earlier in the season, while Martin O’Neill capped an extraordinary interim spell by delivering another championship to the club more than two decades after his previous reign. For Hearts, meanwhile, the defeat brought heartbreak at the end of a magnificent campaign that had captured the imagination across Scotland. McInnes’ side ultimately fell agonisingly short, but finishing above Rangers and pushing Celtic to the final minutes of the final day represented a remarkable achievement and the strongest sign yet that the club’s ambitious long-term project under Tony Bloom may genuinely reshape the Scottish game. `,
     "goals": [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "43" },
       { "team": "Celtic", "scorer": "A. Engels (pen)", "minute": "45+4" },
