@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import matches from "../data/matches.js";
+
+const wins = matches.filter((m) => m.result === "Win").length;
+const draws = matches.filter((m) => m.result === "Draw").length;
+const withVideo = matches.filter((m) => m.youtubeId).length;
+const competitions = [
+  ...new Set(matches.map((m) => m.competition).filter(Boolean)),
+].sort();
+const months = [...new Set(matches.map((m) => m.month).filter(Boolean))];
+---
+
+<BaseLayout title="Hearts 2025/26 Tribute">
+  <section class="hero">
+    <img class="hero-badge" src="/favicon.png" alt="" />
+    <div class="hero-inner">
+      <div class="hero-topline">
+        <a href="/" class="hero-nav-link kicker"> ← Home </a>
+
+        <div class="kicker">Heart of Midlothian • 2025/26</div>
+      </div>
+      <h1>The Players</h1>
+      <h2>A talented squad built around a strong Scottish core.</h2>
+
+      <h2>
+        Jamestown Analytics helped bring in an exciting new wave of exciting
+        signings.
+      </h2>
+
+      <h2>
+        With McInnes’ experience and Bloom’s backing, it feels a great time to
+        be a Jambo.
+      </h2>
+      <div class="stats">
+        <div class="stat">
+          <strong>{matches.length}</strong><span>matches</span>
+        </div>
+        <div class="stat"><strong>{wins}</strong><span>wins</span></div>
+        <div class="stat"><strong>{draws}</strong><span>draws</span></div>
+      </div>
+    </div>
+  </section>
+  <section class="frontpage-photo">
+    <img src="/images/squad.jpg" alt="Hearts Squad 2025/26" />
+  </section>
+</BaseLayout>

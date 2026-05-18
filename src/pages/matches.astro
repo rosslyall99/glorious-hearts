@@ -1,0 +1,179 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import matches from "../data/matches.js";
+
+const wins = matches.filter((m) => m.result === "Win").length;
+const draws = matches.filter((m) => m.result === "Draw").length;
+const withVideo = matches.filter((m) => m.youtubeId).length;
+const competitions = [
+  ...new Set(matches.map((m) => m.competition).filter(Boolean)),
+].sort();
+const months = [...new Set(matches.map((m) => m.month).filter(Boolean))];
+---
+
+<BaseLayout title="Hearts 2025/26 Tribute">
+  <section class="hero">
+    <img class="hero-badge" src="/favicon.png" alt="" />
+    <div class="hero-inner">
+      <div class="hero-topline">
+        <a href="/" class="hero-nav-link kicker"> ← Home </a>
+
+        <div class="kicker">Heart of Midlothian • 2025/26</div>
+      </div>
+      <h1>The Matches</h1>
+      <h2>Forty-four games. One unforgettable league campaign.</h2>
+      <h2>
+        Early cup exits and no Europe — frustrating, but maybe exactly what we
+        needed.
+      </h2>
+      <h2>
+        With the focus narrowed to the Premiership, Hearts found rhythm, belief
+        and momentum.
+      </h2>
+      <div class="stats">
+        <div class="stat">
+          <strong>{matches.length}</strong><span>matches</span>
+        </div>
+        <div class="stat"><strong>{wins}</strong><span>wins</span></div>
+        <div class="stat"><strong>{draws}</strong><span>draws</span></div>
+      </div>
+    </div>
+  </section>
+
+  <main class="shell">
+    <section class="toolbar">
+      <input
+        id="search"
+        type="search"
+        placeholder="Search opponent, score, competition..."
+      />
+      <select id="competition"
+        ><option value="">All competitions</option>{
+          competitions.map((c) => <option value={c}>{c}</option>)
+        }</select
+      >
+      <select id="month"
+        ><option value="">All months</option>{
+          months.map((m) => <option value={m}>{m}</option>)
+        }</select
+      >
+      <select id="result"
+        ><option value="">All results</option><option value="Win">Wins</option
+        ><option value="Draw">Draws</option><option value="Loss">Losses</option
+        ></select
+      >
+      <select id="venue"
+        ><option value="">Home & away</option><option value="Home">Home</option
+        ><option value="Away">Away</option></select
+      >
+    </section>
+
+    {
+      [...new Set(matches.map((m) => m.month))].map((month) => (
+        <section class="month-section">
+          <h2 class="month-heading">{month}</h2>
+
+          <div class="match-grid">
+            {matches
+              .filter((match) => match.month === month)
+              .map((match) => (
+                <a
+                  class="card match-card"
+                  href={`/matches/${match.id}/`}
+                  data-search={`${match.homeTeam} ${match.awayTeam} ${match.score} ${match.competition} ${match.month} ${match.youtubeTitle}`.toLowerCase()}
+                  data-competition={match.competition}
+                  data-month={match.month}
+                  data-result={match.result}
+                  data-venue={match.venue}
+                >
+                  <div class="card-body">
+                    <div class="card-date">
+                      <span class="badge">{match.displayDate}</span>
+                      <span class="badge">{match.competition}</span>
+                    </div>
+
+                    {(() => {
+                      const scoreMatch = match.score.match(/^(\d+)-(\d+)(.*)$/);
+                      const homeScore = scoreMatch?.[1] ?? "";
+                      const awayScore = scoreMatch?.[2] ?? "";
+                      const extraInfo = scoreMatch?.[3]?.trim() ?? "";
+
+                      return (
+                        <div class="card-scoreline">
+                          <div class="card-score-row">
+                            <span>
+                              {match.homeTeam}
+
+                              {match.penalties?.winner === match.homeTeam && (
+                                <small>({match.penalties.score})</small>
+                              )}
+                            </span>
+
+                            <strong>{homeScore}</strong>
+                          </div>
+
+                          <div class="card-score-row">
+                            <span>
+                              {match.awayTeam}
+
+                              {match.penalties?.winner === match.awayTeam && (
+                                <small>({match.penalties.score})</small>
+                              )}
+                            </span>
+
+                            <strong>{awayScore}</strong>
+                          </div>
+                        </div>
+                      );
+                    })()}
+                  </div>
+                </a>
+              ))}
+          </div>
+        </section>
+      ))
+    }
+  </main>
+
+  <script is:inline>
+    // @ts-nocheck
+    const getInput = (id) => document.getElementById(id);
+
+    const search = /** @type {HTMLInputElement} */ (getInput("search"));
+
+    const competition = /** @type {HTMLSelectElement} */ (
+      getInput("competition")
+    );
+
+    const month = /** @type {HTMLSelectElement} */ (getInput("month"));
+
+    const result = /** @type {HTMLSelectElement} */ (getInput("result"));
+
+    const venue = /** @type {HTMLSelectElement} */ (getInput("venue"));
+
+    const cards = /** @type {HTMLElement[]} */ ([
+      ...document.querySelectorAll(".match-card"),
+    ]);
+
+    function filterCards() {
+      const q = search.value.trim().toLowerCase();
+
+      cards.forEach((card) => {
+        const show =
+          (!q || card.dataset.search?.includes(q)) &&
+          (!competition.value ||
+            card.dataset.competition === competition.value) &&
+          (!month.value || card.dataset.month === month.value) &&
+          (!result.value || card.dataset.result === result.value) &&
+          (!venue.value || card.dataset.venue === venue.value);
+
+        card.style.display = show ? "" : "none";
+      });
+    }
+
+    [search, competition, month, result, venue].forEach((el) => {
+      el?.addEventListener("input", filterCards);
+      el?.addEventListener("change", filterCards);
+    });
+  </script>
+</BaseLayout>
