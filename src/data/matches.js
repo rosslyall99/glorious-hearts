@@ -32,6 +32,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2025-07-15-hamilton-academical-hearts",
     "date": "2025-07-15",
     "displayDate": "Tue 15 Jul 2025",
@@ -63,6 +64,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2025-07-19-stirling-albion-hearts",
     "date": "2025-07-19",
     "displayDate": "Sat 19 Jul 2025",
@@ -93,6 +95,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2025-07-23-hearts-dumbarton",
     "date": "2025-07-23",
     "displayDate": "Wed 23 Jul 2025",
@@ -123,6 +126,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2025-08-04-hearts-aberdeen",
     "date": "2025-08-04",
     "displayDate": "Mon 4 Aug 2025",
@@ -300,6 +304,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-08-10-dundee-united-hearts",
     "date": "2025-08-10",
     "displayDate": "Sun 10 Aug 2025",
@@ -482,6 +487,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-08-16-st-mirren-hearts",
     "date": "2025-08-16",
     "displayDate": "Sat 16 Aug 2025",
@@ -512,6 +518,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2025-08-23-hearts-motherwell",
     "date": "2025-08-23",
     "displayDate": "Sat 23 Aug 2025",
@@ -695,6 +702,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-08-30-livingston-hearts",
     "date": "2025-08-30",
     "displayDate": "Sat 30 Aug 2025",
@@ -873,6 +881,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-09-13-rangers-hearts",
     "date": "2025-09-13",
     "displayDate": "Sat 13 Sep 2025",
@@ -1050,6 +1059,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-09-27-hearts-falkirk",
     "date": "2025-09-27",
     "displayDate": "Sat 27 Sep 2025",
@@ -1228,6 +1238,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-10-04-hearts-hibernian",
     "date": "2025-10-04",
     "displayDate": "Sat 4 Oct 2025",
@@ -1404,6 +1415,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-10-18-kilmarnock-hearts",
     "date": "2025-10-18",
     "displayDate": "Sat 18 Oct 2025",
@@ -1582,6 +1594,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-10-26-hearts-celtic",
     "date": "2025-10-26",
     "displayDate": "Sun 26 Oct 2025",
@@ -1761,6 +1774,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-10-29-st-mirren-hearts",
     "date": "2025-10-29",
     "displayDate": "Wed 29 Oct 2025",
@@ -1940,6 +1954,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-11-01-hearts-dundee",
     "date": "2025-11-01",
     "displayDate": "Sat 1 Nov 2025",
@@ -2119,6 +2134,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-11-09-hearts-dundee-united",
     "date": "2025-11-09",
     "displayDate": "Sun 9 Nov 2025",
@@ -2296,6 +2312,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-11-23-aberdeen-hearts",
     "date": "2025-11-23",
     "displayDate": "Sun 23 Nov 2025",
@@ -2472,6 +2489,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-11-29-motherwell-hearts",
     "date": "2025-11-29",
     "displayDate": "Sat 29 Nov 2025",
@@ -2647,6 +2665,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-12-03-hearts-kilmarnock",
     "date": "2025-12-03",
     "displayDate": "Wed 3 Dec 2025",
@@ -2824,6 +2843,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-12-07-celtic-hearts",
     "date": "2025-12-07",
     "displayDate": "Sun 7 Dec 2025",
@@ -3002,6 +3022,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-12-13-falkirk-hearts",
     "date": "2025-12-13",
     "displayDate": "Sat 13 Dec 2025",
@@ -3179,6 +3200,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-12-21-hearts-rangers",
     "date": "2025-12-21",
     "displayDate": "Sun 21 Dec 2025",
@@ -3357,6 +3379,7 @@ export default [
       }
     ]
   },
+
   {"id": "2025-12-27-hibernian-hearts",
     "date": "2025-12-27",
     "displayDate": "Sat 27 Dec 2025",
@@ -3537,6 +3560,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-01-03-hearts-livingston",
     "date": "2026-01-03",
     "displayDate": "Sat 3 Jan 2026",
@@ -3713,6 +3737,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-01-11-dundee-hearts",
     "date": "2026-01-11",
     "displayDate": "Sun 11 Jan 2026",
@@ -3889,6 +3914,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-01-14-hearts-st-mirren",
     "date": "2026-01-14",
     "displayDate": "Wed 14 Jan 2026",
@@ -4066,6 +4092,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-01-17-hearts-falkirk",
     "date": "2026-01-17",
     "displayDate": "Sat 17 Jan 2026",
@@ -4098,6 +4125,7 @@ export default [
     "tags": [],
     "tableAfter": []
   },
+
   {"id": "2026-01-25-hearts-celtic",
     "date": "2026-01-25",
     "displayDate": "Sun 25 Jan 2026",
@@ -4277,6 +4305,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-01-31-dundee-united-hearts",
     "date": "2026-01-31",
     "displayDate": "Sat 31 Jan 2026",
@@ -4455,6 +4484,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-02-03-st-mirren-hearts",
     "date": "2026-02-03",
     "displayDate": "Tue 3 Feb 2026",
@@ -4631,6 +4661,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-02-10-hearts-hibernian",
     "date": "2026-02-10",
     "displayDate": "Tue 10 Feb 2026",
@@ -4807,6 +4838,7 @@ export default [
       }
     ]
   },
+
   {"id": "2026-02-15-rangers-hearts",
     "date": "2026-02-15",
     "displayDate": "Sun 15 Feb 2026",
@@ -4988,8 +5020,8 @@ export default [
       }
     ]
   },
-  {
-    "id": "2026-02-21-hearts-falkirk",
+
+  {"id": "2026-02-21-hearts-falkirk",
     "date": "2026-02-21",
     "displayDate": "Sat 21 Feb 2026",
     "month": "February",
@@ -5006,10 +5038,17 @@ export default [
     "youtubeUrl": "https://www.youtube.com/watch?v=kPaZOJlVNL4",
     "youtubeId": "kPaZOJlVNL4",
     "youtubeTitle": "Heart of Midlothian 1-0 Falkirk | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 1-0 Falkirk was another important result in Hearts’ season and continued the momentum that Derek McInnes’ side built across the campaign. Whether at Tynecastle or away from home, Hearts looked increasingly organised and difficult to play against.
+    "summary": `Heart of Midlothian returned to winning ways in the Scottish Premiership title race with a hard-fought 1-0 victory over Falkirk at Tynecastle, as Islam Chesnokov scored his first goal for the club. After the damaging defeat to Rangers the previous weekend, Derek McInnes’ side responded professionally to move five points clear at the top ahead of their rivals’ matches on Sunday.
 
-The performance itself had moments of quality and moments where resilience was required, but Hearts ultimately found a way to get the result they needed. It was another reminder that consistency and mentality had become major strengths of the side.`,
-    "image": "",
+    Falkirk started brightly and caused problems during an energetic opening spell, registering more shots and attempts on target than the hosts in the first half. However, despite getting into promising areas, the visitors failed to seriously test Alexander Schwolow, with Ben Broggio and Barney Stewart both missing good opportunities. Hearts gradually settled into the game and struck just before the interval when Chesnokov controlled cleverly inside the box before toe-poking a composed finish beyond Scott Bain.
+
+    The home side looked more assured after the break and pushed for a second goal to ease the tension. Bain produced fine saves to deny Claudio Braga and Alexandros Kyziridis, while Filip Lissah made a crucial intervention to stop Tomas Magnusson converting after another dangerous Hearts attack. Despite dominating much of the second half, Hearts could not find the finishing touch to kill the game off and were forced to navigate another nervy ending.
+
+    The victory was an important boost for Hearts amid growing injury concerns that threaten to derail their title challenge. Beni Baningime missed out before kick-off, Ageu withdrew during the warm-up and Stuart Findlay limped off injured in the second half, adding to an already extensive absentee list that includes Lawrence Shankland, Cammy Devlin and Stephen Kingsley. While the performance itself was far from spectacular, McInnes’ side showed the resilience and discipline required at this stage of the season, grinding out a valuable win when anything less would have intensified pressure in the title race.`,
+        "goals": [
+      { "team": "Hearts", "scorer": "I. Chesnokov", "minute": "45" }
+    ],
+    "imageFolder": "260221",
     "tags": [],
     "tableAfter": [
       {
@@ -5158,8 +5197,8 @@ The performance itself had moments of quality and moments where resilience was r
       }
     ]
   },
-  {
-    "id": "2026-02-28-hearts-aberdeen",
+
+  {"id": "2026-02-28-hearts-aberdeen",
     "date": "2026-02-28",
     "displayDate": "Sat 28 Feb 2026",
     "month": "February",
@@ -5176,10 +5215,17 @@ The performance itself had moments of quality and moments where resilience was r
     "youtubeUrl": "https://www.youtube.com/watch?v=LHRxQLw6mJQ",
     "youtubeId": "LHRxQLw6mJQ",
     "youtubeTitle": "Heart of Midlothian 1-0 Aberdeen | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 1-0 Aberdeen was another important result in Hearts’ season and continued the momentum that Derek McInnes’ side built across the campaign. Whether at Tynecastle or away from home, Hearts looked increasingly organised and difficult to play against.
+    "summary": `Heart of Midlothian tightened their grip on the Scottish Premiership title race with a controlled 1-0 victory over Aberdeen at Tynecastle, as Claudio Braga’s first-half strike moved Derek McInnes’ side seven points clear at the top of the table. The result piled pressure on both Rangers and Celtic ahead of their meeting the following day, while Aberdeen’s miserable away form continued.
 
-The performance itself had moments of quality and moments where resilience was required, but Hearts ultimately found a way to get the result they needed. It was another reminder that consistency and mentality had become major strengths of the side.`,
-    "image": "",
+    Hearts dominated much of the first half and deservedly took the lead after Pierre Landry Kabore redeemed an earlier missed opportunity by setting up Braga for a composed finish. Tomas Magnusson had already headed wide, while Blair Spittal and Kabore also threatened as the hosts repeatedly forced Aberdeen onto the back foot with aggressive forward play and quick transitions. The visitors, watched on by former manager Sir Alex Ferguson, struggled badly to impose themselves and once again lacked cutting edge away from home.
+
+    Aberdeen improved after the break following a tactical reshuffle and the introduction of Stuart Armstrong, with Topi Keskinen and Toyosi Olusanya combining dangerously at times and Kevin Nisbet volleying narrowly wide. However, despite becoming more competitive, the visitors rarely looked capable of breaking down a disciplined Hearts defence. Late penalty appeals involving Armstrong and Nisbet were dismissed by the officials, adding to Aberdeen’s frustration as another scoreless away performance stretched into 2026.
+
+    For Hearts, the victory represented another huge step towards a first league title since 1960. McInnes’ side once again combined intensity, organisation and belief, controlling large periods of the match while creating far more chances than the narrow scoreline suggested. With only nine league games remaining, the sense around Tynecastle is increasingly shifting from hopeful excitement to genuine expectation, while Aberdeen’s season continues to drift dangerously towards a disappointing bottom-six finish.`,
+    "goals": [
+      { "team": "Hearts", "scorer": "Claudio Braga", "minute": "28" }
+    ],
+    "imageFolder": "260228",
     "tags": [],
     "tableAfter": [
       {
@@ -5328,8 +5374,8 @@ The performance itself had moments of quality and moments where resilience was r
       }
     ]
   },
-  {
-    "id": "2026-03-14-kilmarnock-hearts",
+
+  {"id": "2026-03-14-kilmarnock-hearts",
     "date": "2026-03-14",
     "displayDate": "Sat 14 Mar 2026",
     "month": "March",
@@ -5346,10 +5392,17 @@ The performance itself had moments of quality and moments where resilience was r
     "youtubeUrl": "https://www.youtube.com/watch?v=nPWDcXZ7m-c",
     "youtubeId": "nPWDcXZ7m-c",
     "youtubeTitle": "Kilmarnock 1-0 Heart of Midlothian | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Kilmarnock 1-0 Hearts was another important result in Hearts’ season and continued the momentum that Derek McInnes’ side built across the campaign. Whether at Tynecastle or away from home, Hearts looked increasingly organised and difficult to play against.
+    "summary": `Kilmarnock dealt a major blow to Heart of Midlothian’s title hopes with a deserved 1-0 victory at Rugby Park, cutting the league leaders’ advantage at the top of the Scottish Premiership to just two points. Michael Schjonning-Larsen’s first-half goal proved enough to secure a huge win for Neil McCann’s side as Hearts turned in one of their poorest performances of the campaign. 
 
-The performance itself had moments of quality and moments where resilience was required, but Hearts ultimately found a way to get the result they needed. It was another reminder that consistency and mentality had become major strengths of the side.`,
-    "image": "",
+    Kilmarnock looked sharper and more aggressive from the outset and nearly opened the scoring inside five minutes when Finlay Curtis struck the base of the post after turning smartly on the edge of the box. Their bright start was rewarded in the 17th minute when Greg Kiltie delivered an excellent cross and Schjonning-Larsen ghosted in behind Michael Steinwender to finish calmly past Alexander Schwolow. Hearts struggled to respond, with Claudio Braga isolated in attack and Tomas Magnusson later forced off with a head injury before half-time. 
+
+    Derek McInnes attempted to inject more urgency after the interval by introducing Islam Chesnokov, but Hearts never truly found rhythm or fluency against an energetic and disciplined Kilmarnock side. The hosts defended with determination while still threatening sporadically on the counterattack, and Hearts’ late pressure amounted largely to hopeful deliveries into the box rather than clear-cut opportunities. Despite dominating possession, the visitors lacked their usual sharpness and creativity in the final third. 
+
+    The result intensified the pressure in the title race with only eight games remaining and renewed questions about whether Hearts can sustain their challenge under mounting expectation. While McInnes insisted his side remain firmly in control of their own destiny, the defeat exposed vulnerabilities that have emerged more frequently in recent weeks as injuries and fatigue continue to stretch the squad. For Kilmarnock, meanwhile, the victory could prove pivotal in their battle to avoid relegation, with an outstanding collective display reigniting belief at Rugby Park.`,
+    "goals": [
+      { "team": "Kilmarnock", "scorer": "M. Schjonning-Larsen", "minute": "17" }
+    ],
+    "imageFolder": "260314",
     "tags": [],
     "tableAfter": [
       {
@@ -5498,8 +5551,8 @@ The performance itself had moments of quality and moments where resilience was r
       }
     ]
   },
-  {
-    "id": "2026-03-21-hearts-dundee",
+
+  {"id": "2026-03-21-hearts-dundee",
     "date": "2026-03-21",
     "displayDate": "Sat 21 Mar 2026",
     "month": "March",
@@ -5516,10 +5569,17 @@ The performance itself had moments of quality and moments where resilience was r
     "youtubeUrl": "https://www.youtube.com/watch?v=bPfm45J5VvA",
     "youtubeId": "bPfm45J5VvA",
     "youtubeTitle": "Heart of Midlothian 1-0 Dundee | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Hearts 1-0 Dundee was another important result in Hearts’ season and continued the momentum that Derek McInnes’ side built across the campaign. Whether at Tynecastle or away from home, Hearts looked increasingly organised and difficult to play against.
+    "summary": `Heart of Midlothian restored breathing space at the top of the Scottish Premiership with a tense 1-0 victory over Dundee at Tynecastle, thanks to Oisin McEntee’s late header. The result ensured Derek McInnes’ side headed into the international break still top of the table and five points clear of Celtic, while also continuing their remarkable run of narrow but crucial home victories.
 
-The performance itself had moments of quality and moments where resilience was required, but Hearts ultimately found a way to get the result they needed. It was another reminder that consistency and mentality had become major strengths of the side.`,
-    "image": "",
+    Hearts largely controlled possession but found chances difficult to come by against a disciplined and organised Dundee side who frustrated the home crowd for long spells. Claudio Braga and Pierre Landry Kabore both squandered promising first-half openings, while Dundee remained dangerous on the counterattack through Tony Yogane and Cam Congreve. As the match wore on, tension around Tynecastle visibly increased with the league leaders struggling to find the breakthrough.
+
+    The decisive moment finally arrived 13 minutes from time when Marc Leonard delivered an inviting free-kick and McEntee escaped his marker to power a header beyond the goalkeeper, sparking huge celebrations inside the stadium. Hearts then had to navigate a nervy finish after Frankie Kent was sent off in stoppage time for a second booking, but Dundee could not capitalise despite throwing bodies forward in the closing moments.
+
+    The victory highlighted both the strengths and vulnerabilities of Hearts’ title challenge. Their attacking fluency has dipped in recent weeks, particularly following Lawrence Shankland’s injury absence, but McInnes’ side continue to show resilience, defensive solidity and a knack for finding decisive moments under pressure. Shankland’s return from the bench and Cammy Devlin’s comeback from injury provided timely boosts heading into the final stretch of the campaign, while Dundee were left frustrated after another competitive display ultimately undone by a single lapse at a set-piece.`,
+    "goals": [
+      { "team": "Hearts", "scorer": "O. McEntee", "minute": "77" }
+    ],
+    "imageFolder": "260321",
     "tags": [],
     "tableAfter": [
       {
@@ -5668,8 +5728,8 @@ The performance itself had moments of quality and moments where resilience was r
       }
     ]
   },
-  {
-    "id": "2026-04-05-livingston-hearts",
+
+  {"id": "2026-04-05-livingston-hearts",
     "date": "2026-04-05",
     "displayDate": "Sun 5 Apr 2026",
     "month": "April",
@@ -5686,10 +5746,20 @@ The performance itself had moments of quality and moments where resilience was r
     "youtubeUrl": "https://www.youtube.com/watch?v=-uJcerPFU_g",
     "youtubeId": "-uJcerPFU_g",
     "youtubeTitle": "Livingston 2-2 Heart of Midlothian | HIGHLIGHTS | William Hill Premiership",
-    "summary": `Livingston 2-2 Hearts was another important result in Hearts’ season and continued the momentum that Derek McInnes’ side built across the campaign. Whether at Tynecastle or away from home, Hearts looked increasingly organised and difficult to play against.
+    "summary": `Heart of Midlothian missed a huge opportunity to strengthen their grip on the Scottish Premiership title race as they were held to a frustrating 2-2 draw by bottom side Livingston. The result left Hearts only a single point clear at the top after Rangers’ victory the previous day and extended Derek McInnes’ side’s worrying run without an away win to four matches. 
 
-The performance itself had moments of quality and moments where resilience was required, but Hearts ultimately found a way to get the result they needed. It was another reminder that consistency and mentality had become major strengths of the side.`,
-    "image": "",
+    Livingston stunned the league leaders with an aggressive start and took the lead inside five minutes when Stevie May rifled a strike in from the edge of the box. Hearts gradually settled and responded through returning captain Lawrence Shankland, who powered home a header from Marc Leonard’s excellent cross. Both sides had opportunities before half-time, with Shankland and Babacar Fati each passing up promising chances in an open contest. 
+
+    After a dramatic change in weather during the interval, Hearts emerged strongly in the snow and turned the match around when Shankland nodded a looping header back across goal for Claudio Braga to leap above his marker and score. However, the visitors’ lead lasted only seven minutes as sloppy defending allowed Livingston to break quickly and square for Lewis Smith to equalise at the back post. Hearts then faded badly in the closing stages, struggling to regain control while Livingston increasingly looked the more dangerous side. 
+
+    The draw highlighted growing concerns over Hearts’ away form and their ability to handle the mounting pressure of the title race. While Shankland’s return gave the side a much-needed focal point in attack, McInnes’ team again looked vulnerable defensively and increasingly anxious once they took the lead. Matters worsened in stoppage time when Marc Leonard was sent off for hauling down Robbie Muirhead as Livingston threatened a late winner. For Livingston, meanwhile, the performance was another spirited display that demonstrated resilience and tactical organisation despite their dire league position. `,
+    "goals": [
+      { "team": "Livingston", "scorer": "S. May", "minute": "5" },
+      { "team": "Hearts", "scorer": "L. Shankland", "minute": "24" },
+      { "team": "Hearts", "scorer": "Claudio Braga", "minute": "51" },
+      { "team": "Livingston", "scorer": "L. Smith", "minute": "58" }
+    ],
+    "imageFolder": "260405",
     "tags": [],
     "tableAfter": [
       {
@@ -5838,8 +5908,8 @@ The performance itself had moments of quality and moments where resilience was r
       }
     ]
   },
-  {
-    "id": "2026-04-11-hearts-motherwell",
+  
+  {"id": "2026-04-11-hearts-motherwell",
     "date": "2026-04-11",
     "displayDate": "Sat 11 Apr 2026",
     "month": "April",
@@ -5863,7 +5933,13 @@ At the same time, the contest remained competitive deep into the afternoon and H
 The crowd played a huge role in driving the team on and there was a strong sense of togetherness around the performance. Even when frustration crept in, Hearts kept believing that the game could still swing in their favour.
 
 By the end, the result felt deserved and represented another important step in a season that was building real momentum.`,
-    "image": "",
+    "goals": [
+      { "team": "Motherwell", "scorer": "E. Longelo", "minute": "50" },
+      { "team": "Hearts", "scorer": "Claudio Braga", "minute": "61" },
+      { "team": "Hearts", "scorer": "L. Shankland (pen)", "minute": "87" },
+      { "team": "Hearts", "scorer": "P. Kabore", "minute": "90+2" }
+    ],
+    "imageFolder": "260411",
     "tags": [],
     "tableAfter": [
       {
@@ -6012,8 +6088,7 @@ By the end, the result felt deserved and represented another important step in a
       }
     ]
   },
-  {
-    "id": "2026-04-26-hibernian-hearts",
+  {"id": "2026-04-26-hibernian-hearts",
     "date": "2026-04-26",
     "displayDate": "Sun 26 Apr 2026",
     "month": "April",
@@ -6039,7 +6114,12 @@ There were naturally periods of pressure and tension, particularly against oppos
 As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
 
 By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
-    "image": "",
+    "goals": [
+      { "team": "Hibernian", "scorer": "M. Boyle", "minute": "7" },
+      { "team": "Hearts", "scorer": "W. O'Hora (OG)", "minute": "65" },
+      { "team": "Hearts", "scorer": "B. Spittal", "minute": "86" }
+    ],
+    "imageFolder": "260426",
     "tags": [],
     "tableAfter": [
       {
@@ -6188,8 +6268,7 @@ By full time, it felt like another major chapter in a season that increasingly c
       }
     ]
   },
-  {
-    "id": "2026-05-04-hearts-rangers",
+  {"id": "2026-05-04-hearts-rangers",
     "date": "2026-05-04",
     "displayDate": "Mon 4 May 2026",
     "month": "May",
@@ -6215,7 +6294,12 @@ There were naturally periods of pressure and tension, particularly against oppos
 As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
 
 By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
-    "image": "",
+    "goals": [
+      { "team": "Rangers", "scorer": "D. Sterling", "minute": "23" },
+      { "team": "Hearts", "scorer": "S. Kingsley", "minute": "54" },
+      { "team": "Hearts", "scorer": "L. Shankland", "minute": "71" }
+    ],
+    "imageFolder": "260504",
     "tags": [],
     "tableAfter": [
       {
@@ -6364,8 +6448,7 @@ By full time, it felt like another major chapter in a season that increasingly c
       }
     ]
   },
-  {
-    "id": "2026-05-09-motherwell-hearts",
+  {"id": "2026-05-09-motherwell-hearts",
     "date": "2026-05-09",
     "displayDate": "Sat 9 May 2026",
     "month": "May",
@@ -6389,7 +6472,11 @@ At the same time, the contest remained competitive deep into the afternoon and H
 The crowd played a huge role in driving the team on and there was a strong sense of togetherness around the performance. Even when frustration crept in, Hearts kept believing that the game could still swing in their favour.
 
 By the end, the result felt deserved and represented another important step in a season that was building real momentum.`,
-    "image": "",
+    "goals": [
+      { "team": "Motherwell", "scorer": "S. Kingsley (OG)", "minute": "25" },
+      { "team": "Hearts", "scorer": "L. Shankland", "minute": "43" }
+    ],
+    "imageFolder": "260509",
     "tags": [],
     "tableAfter": [
       {
@@ -6538,8 +6625,7 @@ By the end, the result felt deserved and represented another important step in a
       }
     ]
   },
-  {
-    "id": "2026-05-13-hearts-falkirk",
+  {"id": "2026-05-13-hearts-falkirk",
     "date": "2026-05-13",
     "displayDate": "Wed 13 May 2026",
     "month": "May",
@@ -6561,7 +6647,12 @@ By the end, the result felt deserved and represented another important step in a
 Hearts created opportunities and pushed hard for the breakthrough, but the opposition stayed organised and difficult to break down. As the match wore on, tension grew around the stadium.
 
 The final outcome left supporters disappointed, particularly given the expectations going into the tie, but it also highlighted the fine margins that often shape cup football.`,
-    "image": "",
+    "goals": [
+      { "team": "Hearts", "scorer": "F. Kent", "minute": "29" },
+      { "team": "Hearts", "scorer": "C. Devlin", "minute": "34" },
+      { "team": "Hearts", "scorer": "B. Spittal", "minute": "86" }
+    ],
+    "imageFolder": "260513",
     "tags": [],
     "tableAfter": [
       {
@@ -6710,8 +6801,7 @@ The final outcome left supporters disappointed, particularly given the expectati
       }
     ]
   },
-  {
-    "id": "2026-05-16-celtic-hearts",
+  {"id": "2026-05-16-celtic-hearts",
     "date": "2026-05-16",
     "displayDate": "Sat 16 May 2026",
     "month": "May",
@@ -6737,7 +6827,13 @@ There were naturally periods of pressure and tension, particularly against oppos
 As the game moved towards its conclusion, the noise around the stadium only intensified. Whether protecting a lead or chasing a decisive moment, Hearts showed composure and maturity in the crucial stages.
 
 By full time, it felt like another major chapter in a season that increasingly carried a sense of momentum and belief. Results like this strengthened the connection between the players, management and support and helped define the character of the campaign.`,
-    "image": "",
+    "goals": [
+      { "team": "Hearts", "scorer": "L. Shankland", "minute": "43" },
+      { "team": "Celtic", "scorer": "A. Engels (pen)", "minute": "45+4" },
+      { "team": "Celtic", "scorer": "D. Maeda", "minute": "87" },
+      { "team": "Celtic", "scorer": "C. Osmand", "minute": "90+8" }
+    ],
+    "imageFolder": "260516",
     "tags": [],
     "tableAfter": [
       {
