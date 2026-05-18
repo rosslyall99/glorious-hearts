@@ -28,7 +28,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland (pen)", "minute": "79" },
       { "team": "Hearts", "scorer": "S. Kingsley", "minute": "90+1" }
     ],
-    "images": ["/images/dunfermline120725.webp"],
+    "imageFolder": "250712",
     "tags": [],
     "tableAfter": []
   },
@@ -59,7 +59,7 @@ export default [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "83" }
     ],
 
-    "images": ["/images/hamilton150725.jpg"],
+    "imageFolder": "250715",
     "tags": [],
     "tableAfter": []
   },
@@ -89,7 +89,7 @@ export default [
       { "team": "Hearts", "scorer": "A. Kyziridis", "minute": "38" },
       { "team": "Hearts", "scorer": "C. Halkett", "minute": "80" }
     ],
-    "images": ["/images/stirling190725.jpg"],
+    "imageFolder": "250719",
     "tags": [],
     "tableAfter": []
   },
@@ -119,7 +119,7 @@ export default [
       { "team": "Hearts", "scorer": "A. Kyziridis", "minute": "52" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "72" }
     ],
-    "images": ["/images/dumbarton230725.jpg"],
+    "imageFolder": "250723",
     "tags": [],
     "tableAfter": []
   },
@@ -151,7 +151,7 @@ export default [
       { "team": "Hearts", "scorer": "G. Shinnie (OG)", "minute": "11" },
       { "team": "Hearts", "scorer": "S. Findlay", "minute": "73" }
     ],
-    "images": ["/images/aberdeen040825.webp", "/images/aberdeen040825.jpg"],
+    "imageFolder": "250712",
     "tags": [],
     "tableAfter": [
       {
@@ -333,7 +333,7 @@ export default [
       { "team": "Hearts", "scorer": "S. Findlay", "minute": "58" },
       { "team": "Hearts", "scorer": "S. Findlay", "minute": "90+4" }
     ],
-    "images": ["/images/dutd100825.jpg", "/images/dutd100825.webp"],
+    "imageFolder": "250810",
     "tags": [],
     "tableAfter": [
       {
@@ -508,7 +508,7 @@ export default [
       { "team": "St Mirren", "scorer": "A. Gogic", "minute": "34" },
       { "team": "Hearts", "scorer": "O. McEntee", "minute": "78" }
     ],
-    "images": ["/images/stmirren160825.jpg", "/images/stmirren160825-2.jpg"],
+    "imageFolder": "250816",
     "tags": [],
     "tableAfter": []
   },
@@ -546,7 +546,7 @@ export default [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "74" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "83" }
     ],
-    "images": ["/images/motherwell230825.jpg", "/images/motherwell230825-2.jpg", "/images/motherwell230825-3.jpg"],
+    "imageFolder": "250823",
     "tags": [],
     "tableAfter": [
       {
@@ -724,7 +724,7 @@ export default [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "47" },
       { "team": "Hearts", "scorer": "A. Kyziridis", "minute": "90+1" }
     ],
-    "images": ["/images/livingston300825.jpg", "/images/livingston300825-2.jpg", "/images/livingston300825-3.jpg"],
+    "imageFolder": "250830",
     "tags": [],
     "tableAfter": [
       {
@@ -901,7 +901,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "21" },
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "82" }
     ],
-    "images": ["/images/rangers130925.jpg", "/images/rangers130925.avif"],
+    "imageFolder": "250913",
     "tags": [],
     "tableAfter": [
       {
@@ -1079,7 +1079,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "41" },
       { "team": "Hearts", "scorer": "C. Halkett", "minute": "48" }
     ],
-    "images": ["/images/falkirk270925.jpg", "/images/falkirk270925-2.jpg", "/images/falkirk270925-3.jpg", "/images/falkirk270925.webp" ],
+    "imageFolder": "250927",
     "tags": [],
     "tableAfter": [
       {
@@ -1255,7 +1255,7 @@ export default [
         "goals": [
       { "team": "Hearts", "scorer": "C. Halkett", "minute": "90+1" }
     ],
-    "images": ["/images/hibs041025.jpg", "/images/hibs041025-2.jpg"],
+    "imageFolder": "251004",
     "tags": [],
     "tableAfter": [
       {
@@ -1433,7 +1433,7 @@ export default [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "57" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "61" }
     ],
-    "images": ["/images/kilmarnock181025.jpg", "/images/kilmarnock181025-2.jpg"],
+    "imageFolder": "251018",
     "tags": [],
     "tableAfter": [
       {
@@ -1612,7 +1612,7 @@ export default [
       { "team": "Hearts", "scorer": "A. Kyziridis", "minute": "52" },
       { "team": "Hearts", "scorer": "L. Shankland (pen)", "minute": "55" }
     ],
-    "images": ["/images/celtic261025.webp", "/images/celtic261025-2.webp"],
+    "imageFolder": "251026",
     "tags": [],
     "tableAfter": [
       {
@@ -1791,7 +1791,7 @@ export default [
       { "team": "St Mirren", "scorer": "M. Freckleton", "minute": "55" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "70" }
     ],
-    "images": ["/images/stmirren291025.jpg", "/images/stmirren291025-2.jpg", "/images/stmirren291025.webp"],
+    "imageFolder": "251029",
     "tags": [],
     "tableAfter": [
       {
@@ -1970,7 +1970,7 @@ export default [
       { "team": "Hearts", "scorer": "P. Kabore", "minute": "56" },
       { "team": "Hearts", "scorer": "T. Magnusson", "minute": "79" }
     ],
-    "images": ["/images/dundee011125.webp", "/images/dundee011125-2.webp", "/images/dundee011125.jpeg", "/images/dundee011125.avif"],
+    "imageFolder": "251101",
     "tags": [],
     "tableAfter": [
       {
@@ -2147,7 +2147,7 @@ export default [
       { "team": "Hearts", "scorer": "Y. Kucherenko (OG)", "minute": "25" },
       { "team": "Dundee United", "scorer": "L. Stephenson", "minute": "45" }
     ],
-    "images": ["/images/dutd091125.jpg", "/images/dutd091125-2.jpg", "/images/dutd091125.avif"],
+    "imageFolder": "251109",
     "tags": [],
     "tableAfter": [
       {
@@ -2323,7 +2323,7 @@ export default [
         "goals": [
       { "team": "Aberdeen", "scorer": "T. Keskinen", "minute": "39" }
     ],
-    "images": ["/images/aberdeen231125.jpeg", "/images/aberdeen231125-2.jpg", "/images/aberdeen231125.webp"],
+    "imageFolder": "251123",
     "tags": [],
     "tableAfter": [
       {
@@ -2498,7 +2498,7 @@ export default [
     The result continued a concerning dip in form for Derek McInnes’ side, who have now won just one of their last five league matches after such a blistering start to the campaign. While Hearts still showed resilience to leave Fir Park with a point, they looked far less fluent than earlier in the season and relied heavily on Schwolow’s brilliance to preserve the draw. Motherwell, meanwhile, produced another energetic and adventurous display under Jens Berthel Askou, but were left frustrated by their inability to convert superiority into victory.`,
         "goals": [
     ],
-    "images": ["/images/motherwell291125.jpg", "/images/motherwell291125-2.jpg", "/images/motherwell291125.webp"],
+    "imageFolder": "251129",
     "tags": [],
     "tableAfter": [
       {
@@ -2675,7 +2675,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "49" },
       { "team": "Kilmarnock", "scorer": "B. Anderson", "minute": "90" }
     ],
-    "images": ["/images/kilmarnock031225.jpg", "/images/kilmarnock031225-2.jpg"],
+    "imageFolder": "251203",
     "tags": [],
     "tableAfter": [
       {
@@ -2853,7 +2853,7 @@ export default [
       { "team": "Hearts", "scorer": "O. McEntee", "minute": "64" },
       { "team": "Celtic", "scorer": "K. Tierney", "minute": "90+3" }
     ],
-    "images": ["/images/celtic071225.jpeg", "/images/celtic071225.webp", "/images/celtic071225-2.jpg", "/images/celtic071225-3.jpeg"],
+    "imageFolder": "251207",
     "tags": [],
     "tableAfter": [
       {
@@ -3030,7 +3030,7 @@ export default [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "2" },
       { "team": "Hearts", "scorer": "S. Kingsley", "minute": "77" }
     ],
-    "images": ["/images/falkirk131225.jpg", "/images/falkirk131225-2.jpg", "/images/falkirk131225.webp"],
+    "imageFolder": "251213",
     "tags": [],
     "tableAfter": [
       {
@@ -3208,7 +3208,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "42" },
       { "team": "Rangers", "scorer": "Youssef Chermiti", "minute": "90+5" }
     ],
-    "images": ["/images/rangers211225.jpg", "/images/rangers211225.webp", "/images/rangers211225.avif", "/images/rangers211225-2.avif"],
+    "imageFolder": "251221",
     "tags": [],
     "tableAfter": [
       {
@@ -3388,7 +3388,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "75" },
       { "team": "Hearts", "scorer": "C. Devlin", "minute": "89" }
     ],
-    "images": ["/images/hibs271225.jpg", "/images/hibs271225.webp", "/images/hibs271225-2.jpeg", "/images/hibs271225.avif"],
+    "imageFolder": "251227",
     "tags": [],
     "tableAfter": [
       {
@@ -3564,7 +3564,7 @@ export default [
         "goals": [
       { "team": "Hearts", "scorer": "C. Halkett", "minute": "18" }
     ],
-    "images": ["/images/livingston030126.jpg", "/images/livingston030126-2.jpg", "/images/livingston030126-3.jpg", "/images/livingston030126-4.jpg"],
+    "imageFolder": "260103",
     "tags": [],
     "tableAfter": [
       {
@@ -3740,7 +3740,7 @@ export default [
         "goals": [
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "27" }
     ],
-    "images": ["/images/dundee110126.jpg", "/images/dundee110126-2.jpg", "/images/dundee110126-3.jpg", "/images/dundee110126-4.jpg"],
+    "imageFolder": "260111",
     "tags": [],
     "tableAfter": [
       {
@@ -3917,7 +3917,7 @@ export default [
       { "team": "Hearts", "scorer": "L. Shankland", "minute": "60" },
       { "team": "Hearts", "scorer": "T. Magnusson", "minute": "80" }
     ],
-    "images": ["/images/stmirren140126.jpg", "/images/stmirren140126.webp", "/images/stmirren140126-2.webp", "/images/stmirren140126-3.webp"],
+    "imageFolder": "260114",
     "tags": [],
     "tableAfter": [
       {
@@ -4094,7 +4094,7 @@ export default [
       { "team": "Falkirk", "scorer": "B. Parkinson", "minute": "59" },
       { "team": "Hearts", "scorer": "L. Shankland (pen)", "minute": "86" }
     ],
-    "images": ["/images/falkirk170126.webp", "/images/falkirk170126-2.webp", "/images/falkirk170126.jpg"],
+    "imageFolder": "260117",
     "tags": [],
     "tableAfter": []
   },
@@ -4128,7 +4128,7 @@ export default [
       { "team": "Celtic", "scorer": "Yang Hyun-Jun", "minute": "62" },
       { "team": "Hearts", "scorer": "Claudio Braga", "minute": "87" }
     ],
-    "images": ["/images/celtic250126.jpg", "/images/celtic250126.webp", "/images/celtic250126-2.jpg"],
+    "imageFolder": "260125",
     "tags": [],
     "tableAfter": [
       {
@@ -4306,7 +4306,7 @@ export default [
       { "team": "Hearts", "scorer": "A. Kyziridis (pen)", "minute": "29" },
       { "team": "Hearts", "scorer": "P. Kabore", "minute": "81" }
     ],
-    "images": ["/images/dutd310126.jpg", "/images/dutd310126-2.jpg", "/images/dutd310126.webp"],
+    "imageFolder": "260131",
     "tags": [],
     "tableAfter": [
       {
@@ -4482,7 +4482,7 @@ export default [
         "goals": [
       { "team": "St Mirren", "scorer": "M. Freckleton", "minute": "88" }
     ],
-    "images": ["/images/smirren030226.webp", "/images/smirren030226-2.webp", "/images/smirren030226-3.webp"],
+    "imageFolder": "260203",
     "tags": [],
     "tableAfter": [
       {
@@ -4658,7 +4658,7 @@ export default [
         "goals": [
       { "team": "Hearts", "scorer": "T. Magnusson", "minute": "88" }
     ],
-    "images": ["/images/hibs100226.jpg", "/images/hibs100226-2.jpg", "/images/hibs100226-2.webp"],
+    "imageFolder": "260210",
     "tags": [],
     "tableAfter": [
       {
@@ -4839,7 +4839,7 @@ export default [
       { "team": "Rangers", "scorer": "Youssef Chermiti", "minute": "57" },
       { "team": "Rangers", "scorer": "Youssef Chermiti", "minute": "90" }
     ],
-    "images": ["/images/rangers150226.jpg", "/images/rangers150226.webp", "/images/rangers150226-2.avif", "/images/rangers150226.avif"],
+    "imageFolder": "260215",
     "tags": [],
     "tableAfter": [
       {

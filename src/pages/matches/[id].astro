@@ -11,6 +11,17 @@ const title = `${match.homeTeam} ${match.score} ${match.awayTeam}`;
 const table = match.tableAfter || [];
 const homeGoals = (match.goals || []).filter(goal => goal.team === match.homeTeam);
 const awayGoals = (match.goals || []).filter(goal => goal.team === match.awayTeam);
+
+const imageModules = import.meta.glob('/public/images/matches/**/*.{jpg,jpeg,png,webp,avif}', {
+  eager: true,
+  query: '?url',
+  import: 'default'
+});
+
+const matchImages = Object.entries(imageModules)
+  .filter(([path]) => path.includes(`/matches/${match.imageFolder}/`))
+  .map(([, url]) => String(url).replace('/public', ''))
+  .sort();
 ---
 
 <BaseLayout title={`${title} • Hearts 2025/26`}>
@@ -85,14 +96,11 @@ const awayGoals = (match.goals || []).filter(goal => goal.team === match.awayTea
       <div class="panel">
         <h2>Photos and memories</h2>
 
-        {match.images?.length ? (
+        {matchImages.length ? (
           <>
             <div class="gallery">
-              {match.images.map((image) => (
-                <img
-                  src={image}
-                  alt={title}
-                />
+              {matchImages.map((image) => (
+                <img src={image} alt={title} />
               ))}
             </div>
 
@@ -103,7 +111,7 @@ const awayGoals = (match.goals || []).filter(goal => goal.team === match.awayTea
           </>
         ) : (
           <div class="image-placeholder">
-            Add images in <code>public/images</code>, then add them to <code>matches.js</code>.
+            Add images into <code>public/images/matches/{match.imageFolder}</code>.
           </div>
         )}
       </div>
