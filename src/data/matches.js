@@ -6818,9 +6818,9 @@ export default [
     "result": "Loss",
     "competition": "Scottish Premiership",
     "bbcUrl": "https://www.bbc.co.uk/sport/football/live/c0m289e39zkt",
-    "youtubeUrl": "",
-    "youtubeId": "",
-    "youtubeTitle": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FJdXB_damkU",
+    "youtubeId": "FJdXB_damkU",
+    "youtubeTitle": "CELTIC WIN TITLE IN LAST-DAY THRILLER",
     "summary": `Celtic snatched the Scottish Premiership title from Heart of Midlothian in one of the most dramatic finales in modern Scottish football history, coming from behind to win 3-1 at Celtic Park and deny Hearts a first league crown since 1960. Hearts had spent most of the season at the top of the table and only needed a draw on the final day, but late goals from Daizen Maeda and Callum Osmand completed a remarkable turnaround and secured Celtic’s fifth consecutive title. 
 
     The tension inside Celtic Park was immense throughout a nervy first half in which chances were scarce, but it was Hearts who struck first just before the interval. Lawrence Shankland rose unmarked at the back post to head home from a Stephen Kingsley corner and put the Edinburgh side within touching distance of an extraordinary triumph. However, Celtic responded immediately in stoppage time when Arne Engels converted a penalty after Alexandros Kyziridis handled Kieran Tierney’s cross, dragging the hosts level before the break. 
