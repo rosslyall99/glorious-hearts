@@ -71,7 +71,9 @@ const months = [...new Set(matches.map((m) => m.month).filter(Boolean))];
     {
       [...new Set(matches.map((m) => m.month))].map((month) => (
         <section class="month-section">
-          <h2 class="month-heading">{month}</h2>
+          <div class="section-heading">
+            <span>{month}</span>
+          </div>
 
           <div class="match-grid">
             {matches
