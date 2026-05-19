@@ -1,0 +1,126 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { players } from "../../data/players.js";
+
+export function getStaticPaths() {
+  return players.map((player) => ({
+    params: { slug: player.slug },
+    props: { player },
+  }));
+}
+
+const { player } = Astro.props;
+---
+
+<BaseLayout title={`${player.name} | Hearts 2025/26`}>
+  <section class="hero player-hero">
+    <img class="hero-badge" src="/favicon.png" alt="" />
+
+    <div class="hero-inner">
+      <div class="hero-topline">
+        <a href="/team" class="hero-nav-link">← Back to players</a>
+        <div>Heart of Midlothian • 2025/26</div>
+      </div>
+
+      <h1>{player.name}</h1>
+
+      <div class="stats player-profile-stats">
+        <div class="stat">
+          <span>Squad number</span>
+          <strong>{player.squadNumber}</strong>
+        </div>
+
+        <div class="stat">
+          <span>Position</span>
+          <strong>{player.position}</strong>
+        </div>
+
+        <div class="stat">
+          <span>Age</span>
+          <strong>{player.age}</strong>
+        </div>
+
+        <div class="stat">
+          <span>Height</span>
+          <strong>{player.height}</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="shell player-detail-layout">
+    <section class="player-detail-main">
+      <div class="panel">
+        <h2>Player details</h2>
+
+        <div class="detail-grid">
+          <div>
+            <span>Joined</span>
+            <strong>{player.joined}</strong>
+          </div>
+
+          <div>
+            <span>Contract until</span>
+            <strong>{player.contractUntil}</strong>
+          </div>
+
+          <div>
+            <span>Market value</span>
+            <strong>{player.marketValue}</strong>
+          </div>
+        </div>
+
+        <p class="small-note">Market value as of today.</p>
+      </div>
+
+      <div class="panel">
+        <h2>2025/26 season</h2>
+
+        <div class="season-grid">
+          <div>
+            <div>
+              <strong>{player.appearances}</strong><span>Appearances</span>
+            </div>
+            <div><strong>{player.inSquad}</strong><span>In squad</span></div>
+            <div>
+              <strong>{player.minutes}</strong><span>Minutes played</span>
+            </div>
+          </div>
+
+          <div>
+            <div><strong>{player.goals}</strong><span>Goals</span></div>
+            <div><strong>{player.assists}</strong><span>Assists</span></div>
+          </div>
+
+          <div>
+            <div>
+              <strong>{player.yellowCards}</strong><span>Yellow cards</span>
+            </div>
+            <div>
+              <strong>{player.secondYellow}</strong><span>Second yellows</span>
+            </div>
+
+            <div><strong>{player.redCards}</strong><span>Red cards</span></div>
+          </div>
+          <div>
+            <div><strong>{player.subbedOn}</strong><span>Subbed on</span></div>
+            <div>
+              <strong>{player.subbedOff}</strong><span>Subbed off</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>Bio</h2>
+        <p class="summary-text">
+          {player.bio || "Bio to be added."}
+        </p>
+      </div>
+    </section>
+
+    <aside class="player-image-card">
+      <img src={player.fullImage} alt={player.name} />
+    </aside>
+  </main>
+</BaseLayout>

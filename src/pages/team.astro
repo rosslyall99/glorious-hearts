@@ -121,7 +121,10 @@ const playersByPosition = positionOrder.map((position) => ({
 
             <div class="masonry-grid">
               {group.players.map((player, index) => (
-                <article class={"player-card"}>
+                <a
+                  class="player-card"
+                  href={`/players/${player.name.toLowerCase().replaceAll(" ", "-")}/`}
+                >
                   <div class="maroon-angle" />
 
                   <img src={player.src} alt={player.name} loading="lazy" />
@@ -130,7 +133,7 @@ const playersByPosition = positionOrder.map((position) => ({
                     <p>{positionLabels[player.position]}</p>
                     <h2>{player.name}</h2>
                   </div>
-                </article>
+                </a>
               ))}
             </div>
           </section>
