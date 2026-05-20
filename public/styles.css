@@ -198,6 +198,32 @@ h1 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+/* PLAYER DETAIL LAYOUT */
+.player-detail-layout {
+  display: grid;
+  grid-template-columns: 1.5fr 0.9fr;
+  gap: 32px;
+  align-items: start;
+}
+
+/* DESKTOP ONLY */
+@media (min-width: 901px) {
+  .player-image-card {
+    margin-top: 104px;
+  }
+}
+
+/* MOBILE */
+@media (max-width: 900px) {
+  .player-detail-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .player-image-card {
+    margin-top: 0;
+  }
+}
+
 /* =========================================================
    Shared layout
    ========================================================= */
@@ -436,7 +462,7 @@ select {
   border-radius: 26px;
   padding: 22px;
   box-shadow: 0 14px 40px rgba(46, 0, 14, 0.08);
-  margin-bottom: 18px;
+  margin-bottom: 6px;
 }
 
 .summary-text {
@@ -953,7 +979,7 @@ select {
 
 .player-detail-main {
   display: grid;
-  gap: 18px;
+  gap: 16px;
 }
 
 .detail-grid,
@@ -967,7 +993,13 @@ select {
 }
 
 .season-grid {
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.season-empty {
+  visibility: hidden;
 }
 
 .detail-grid div,
@@ -1042,6 +1074,12 @@ select {
 
   .player-image-card img {
     height: 420px;
+  }
+
+  .season-grid {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 6px;
   }
 }
 
