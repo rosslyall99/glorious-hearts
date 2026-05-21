@@ -50,11 +50,10 @@ const { player } = Astro.props;
 
   <main class="shell player-detail-layout">
     <section class="player-detail-main">
-      <div class="section-heading">
-        <span>Player</span>
-      </div>
-
       <div class="panel">
+        <div class="section-heading">
+          <span>Player</span>
+        </div>
         <div class="detail-grid">
           <div>
             <span>Joined</span>
@@ -73,11 +72,10 @@ const { player } = Astro.props;
         </div>
       </div>
 
-      <div class="section-heading">
-        <span>Season</span>
-      </div>
-
       <div class="panel">
+        <div class="section-heading">
+          <span>Season</span>
+        </div>
         <div class="season-grid">
           <div>
             <span>Appearances</span><strong>{player.appearances}</strong>
@@ -105,17 +103,47 @@ const { player } = Astro.props;
         </div>
       </div>
 
-      <div class="section-heading">
-        <span>Bio</span>
-      </div>
-
       <div class="panel">
+        <div class="section-heading">
+          <span>Bio</span>
+        </div>
         <div class="summary-text" set:html={player.bio || "Bio to be added."} />
       </div>
     </section>
 
-    <aside class="player-image-card">
-      <img src={player.fullImage} alt={player.name} />
+    <aside class="player-image-wrap">
+      <div class="player-image-card">
+        <img src={player.fullImage} alt={player.name} />
+      </div>
     </aside>
+
+    <script>
+      const imageWrapEl = document.querySelector(".player-image-wrap");
+      const imageCardEl = document.querySelector(".player-image-card");
+
+      if (
+        imageWrapEl instanceof HTMLElement &&
+        imageCardEl instanceof HTMLElement
+      ) {
+        const imageWrap = imageWrapEl;
+        const imageCard = imageCardEl;
+
+        function updateMiniImage() {
+          if (window.innerWidth > 768) {
+            imageCard.classList.remove("is-mini");
+            return;
+          }
+
+          const shouldMini =
+            window.scrollY > imageWrap.offsetTop + imageWrap.offsetHeight;
+
+          imageCard.classList.toggle("is-mini", shouldMini);
+        }
+
+        window.addEventListener("scroll", updateMiniImage, { passive: true });
+        window.addEventListener("resize", updateMiniImage);
+        updateMiniImage();
+      }
+    </script>
   </main>
 </BaseLayout>
