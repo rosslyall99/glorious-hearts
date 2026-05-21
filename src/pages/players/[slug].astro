@@ -110,9 +110,7 @@ const { player } = Astro.props;
       </div>
 
       <div class="panel">
-        <p class="summary-text">
-          {player.bio || "Bio to be added."}
-        </p>
+        <div class="summary-text" set:html={player.bio || "Bio to be added."} />
       </div>
     </section>
 

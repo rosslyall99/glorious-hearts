@@ -491,7 +491,31 @@ export const players = [
     minutes: 180,
     headImage: "/images/players/goalkeepers/head/Ryan Fulton.webp",
     fullImage: "/images/players/goalkeepers/full/Ryan Fulton.webp",
-    bio: "",
+    bio: `Ryan Fulton’s 2025/26 season was one built around patience, professionalism and reliability behind the scenes.
+
+After arriving from Hamilton Academical the previous summer, Fulton signed a contract extension in June 2025 that kept him at Hearts until 2027, underlining the club’s faith in him as part of the goalkeeping group.
+
+With Alexander Schwolow quickly establishing himself as the club’s number one and Craig Gordon battling injury issues, Fulton’s opportunities were limited, but his importance inside the squad never really diminished. Goalkeepers often spend long periods waiting for their moment, and throughout the campaign Fulton was viewed as exactly the kind of dependable deputy every successful side needs.
+
+His appearances mainly came in cup matches early in the season, where he handled himself calmly and efficiently. There was never a sense of panic when he stepped into the side. At 6ft 3in, Fulton brought a strong physical presence and a straightforward, no-nonsense style of goalkeeping. He was solid aerially, organised his defence well and looked comfortable playing within Hearts’ system.
+
+Perhaps the biggest compliment that could be paid to Fulton during the season was the trust the coaching staff appeared to place in him. Despite limited game time, he remained consistently involved in matchday squads and training standards were repeatedly praised publicly by the club. Derek McInnes described him as a “top professional” who pushed his teammates every day in training.
+
+There was also a growing sense that Fulton had genuinely embraced his role at Tynecastle. Some backup goalkeepers drift into the background over the course of a season; Fulton never really did. Supporters seemed to appreciate his attitude and willingness to stay ready despite knowing opportunities might be limited behind experienced competition.
+
+At 29, Fulton now finds himself at an interesting stage of his career. He has proven himself to be a reliable Premiership-level goalkeeper and remains highly valued within the squad structure. Whether his future involves eventually challenging for the number one jersey at Hearts or seeking more regular football elsewhere may depend on how the goalkeeping picture develops over the next year.
+
+Either way, 2025/26 reinforced Fulton’s reputation as exactly the type of squad player strong teams rely upon — dependable, professional and always prepared when called upon.
+
+<div class="references">
+  <span>References:</span>
+
+  <a href="https://www.heartsfc.co.uk/blogs/news/fulton-signs-contract-extension" target="_blank" rel="noopener noreferrer">Hearts FC</a>
+
+  <a href="https://www.bbc.co.uk/sport/articles/c86gl7gj994o" target="_blank" rel="noopener noreferrer">BBC Sport</a>
+
+  <a href="https://www.heartsfc.co.uk/pages/ryan-fulton-player-profile" target="_blank" rel="noopener noreferrer">Player Profile</a>
+</div>`,
   },
   {
     slug: "craig-gordon",
@@ -517,7 +541,31 @@ export const players = [
     minutes: 225,
     headImage: "/images/players/goalkeepers/head/Craig Gordon.webp",
     fullImage: "/images/players/goalkeepers/full/Craig Gordon.webp",
-    bio: "",
+    bio: `Craig Gordon’s 2025/26 season felt less like a farewell and more like another chapter in one of the most remarkable careers in Scottish football.
+
+At 43 years old, Gordon once again found himself fighting through injury setbacks while refusing to quietly fade away. After missing significant time with neck and shoulder problems across the campaign, there were genuine moments where it seemed Hearts might finally have to plan for life without him. Instead, Gordon continued doing what he has done throughout his career: recovering, returning and contributing when many thought he no longer could. 
+
+The arrival of Alexander Schwolow during the summer changed the dynamic of the goalkeeping department, but Gordon’s importance to Hearts extended far beyond simply starting matches. Even while unavailable for periods, his leadership and presence around the squad remained enormous. Younger players still looked toward him, supporters still trusted him, and the club still clearly valued him as one of the dressing room’s major figures.
+
+When he did feature, glimpses of the old Craig Gordon remained obvious. His reflexes, handling and command of the penalty area still stood out, even after everything his body had been through over the years. One of the defining moments of Hearts’ season actually came after Alexander Schwolow’s red card against Dundee, when Gordon came on and produced a crucial late save to help preserve victory. It was a reminder that, even in limited appearances, he still had the ability to influence massive moments.
+
+His professionalism throughout the season also drew admiration. Gordon never publicly complained about injuries, reduced playing time or changing circumstances. Instead, he approached everything with the same calmness and discipline that has defined his entire career. Supporters increasingly seemed to appreciate not just the goalkeeper he had been, but the example he continued to set every day at the club.
+
+There was also an emotional side to the season. Every Craig Gordon appearance now carries a certain significance because supporters understand they are watching the closing stages of a legendary Hearts career. Yet Gordon himself never really behaved like someone preparing to stop. Even late in the season, Scotland manager Steve Clarke spoke positively about his recovery and fitness levels.
+
+The question of Gordon’s future now naturally hangs over the club. His contract runs until summer 2026, and while retirement conversations will inevitably continue, writing him off has become a dangerous thing to do over the years. Hearts may eventually transition fully toward a new generation of goalkeepers, but Gordon’s influence on the club feels unlikely to disappear any time soon.
+
+Even in a season disrupted heavily by injuries, Craig Gordon still managed to remind everyone why he remains one of the most respected figures in Scottish football history.
+
+<div class="references">
+  <span>References:</span>
+
+  <a href="https://www.skysports.com/football/news/12017/13545862/world-cup-2026-craig-gordon-deserves-scotland-place-despite-injury-hit-season-says-steve-clarke" target="_blank" rel="noopener noreferrer">Sky Sports</a>
+
+  <a href="https://www.thescottishsun.co.uk/sport/15297228/craig-gordon-returns-injury-hearts-closed-doors-dunfermline/" target="_blank" rel="noopener noreferrer">Scottish Sun</a>
+
+  <a href="https://www.facebook.com/OfficialHeartofMidlothianFC/posts/%EF%B8%8F-we-caught-up-with-craig-gordon-to-chat-about-his-return-to-fitness-the-jambos-/1237306525109235/" target="_blank" rel="noopener noreferrer">Hearts Interview</a>
+</div>`,
   },
   {
     slug: "alexander-schwolow",
@@ -543,7 +591,41 @@ export const players = [
     minutes: 2955,
     headImage: "/images/players/goalkeepers/head/Alexander Schwolow.webp",
     fullImage: "/images/players/goalkeepers/full/Alexander Schwolow.webp",
-    bio: "",
+    bio: `When Alexander Schwolow arrived at Heart of Midlothian F.C. in August 2025, it initially felt like a sensible short-term solution. By the end of the season, it felt like one of the signings of the year.
+
+The experienced German goalkeeper joined on a free transfer after leaving , signing a two-year deal at Tynecastle. Hearts were suddenly short in the goalkeeping department, with injuries to both Craig Gordon and Ryan Fulton creating uncertainty, while Zander Clark had his own fitness concerns. Hearts needed reliability, calmness and experience immediately — and Schwolow brought all three. ([BBC][1])
+
+What Hearts got was far more than just an emergency replacement.
+
+Schwolow’s quality was obvious almost immediately. He had over 200 Bundesliga appearances behind him, but it was not simply reputation that impressed supporters — it was the composure. At a club where goalkeepers are constantly scrutinised, especially following a figure as iconic as Craig Gordon, Schwolow rarely looked rattled. He was calm under pressure, strong positionally, commanding in the air and an excellent shot stopper. He did not make theatrical saves for the sake of it; instead, he had that elite goalkeeper trait of seeming to already be in the right place before the danger fully developed.
+
+Some of his best performances came in the biggest matches. His clean sheet at Ibrox early in the season immediately won supporters over, while later displays against Rangers, Aberdeen and Dundee showcased just how dependable he had become. There were countless one-on-one saves, low reaction stops and moments where Hearts were hanging on and Schwolow simply refused to let them concede. By springtime, supporters were openly discussing him as one of the best goalkeepers in the division. ([World Football Index][2])
+
+Ironically, one of the defining moments of his season came when he *wasn’t* able to save Hearts.
+
+His red card against Dundee in January — awarded after a VAR review for a professional foul — could easily have become a disaster moment. Instead, it almost added to the mythology of the season. Hearts held on with ten men after Craig Gordon’s remarkable late save preserved victory, but even then the reaction toward Schwolow was telling. There was frustration, of course, but very little blame. Supporters recognised that he had spent months bailing the team out beforehand. ([Sky Sports][3])
+
+That was perhaps the biggest compliment possible: Hearts fans trusted him.
+
+Statistically, his season backed that up. Fifteen league clean sheets, an excellent save percentage and one of the strongest goals-conceded records in the Premiership reflected just how important he was to Hearts staying competitive throughout the campaign. ([FootyStats][4])
+
+But beyond the numbers, it was his personality that seemed to resonate.
+
+Schwolow never came across as flashy or self-important despite his Bundesliga pedigree. There was a quiet professionalism about him. He looked like someone genuinely enjoying football again after difficult years spent largely as a backup at Union Berlin. Supporters warmed to his understated nature, his calm interviews and the sense that he simply got on with the job. He fitted the character of Tynecastle surprisingly quickly — hard-working, resilient and uncomplaining.
+
+His future now becomes fascinating.
+
+At 33, Schwolow arrived in Edinburgh as a goalkeeper many assumed was winding down his career. Instead, he may have rediscovered himself. Hearts signed him on a two-year contract, and unless circumstances change dramatically, there is every reason to believe he remains the club’s number one going into next season. The bigger question may actually be whether stronger leagues begin to look at him again after such an impressive campaign.
+
+Either way, his 2025/26 season will be remembered fondly at Tynecastle: a veteran German goalkeeper arriving quietly during an injury crisis and ending the year as one of the most important players in the team.
+
+<div class="references">
+  <span>References:</span>
+  <a href="https://www.bbc.co.uk/sport/football/articles/cly4mz3j7zjo" target="_blank" rel="noopener noreferrer">BBC Sport</a>
+  <a href="https://worldfootballindex.com/2026/05/alex-schwolow-dreams-of-the-spl-title-with-hearts/" target="_blank" rel="noopener noreferrer">World Football Index</a>
+  <a href="https://www.skysports.com/football/video/11790/13493089/hearts-goalkeeper-alexander-schwolow-gets-red-card-against-dundee" target="_blank" rel="noopener noreferrer">Sky Sports</a>
+  <a href="https://footystats.org/players/germany/alexander-schwolow" target="_blank" rel="noopener noreferrer">FootyStats</a>
+</div>`,
   },
   {
     slug: "eduardo-ageu",

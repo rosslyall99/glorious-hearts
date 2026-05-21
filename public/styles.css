@@ -1088,3 +1088,23 @@ select {
   color: inherit;
   display: block;
 }
+
+.summary-text .references {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+}
+
+.summary-text .references a {
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.summary-text .references {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: center;
+}
