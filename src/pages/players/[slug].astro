@@ -115,45 +115,33 @@ const { player } = Astro.props;
       <div class="player-image-card">
         <img src={player.fullImage} alt={player.name} />
       </div>
+
+      <div class="player-image-mini" aria-hidden="true">
+        <img src={player.fullImage} alt="" />
+      </div>
     </aside>
 
     <script>
       const imageWrapEl = document.querySelector(".player-image-wrap");
-      const imageCardEl = document.querySelector(".player-image-card");
+      const miniImageEl = document.querySelector(".player-image-mini");
 
       if (
         imageWrapEl instanceof HTMLElement &&
-        imageCardEl instanceof HTMLElement
+        miniImageEl instanceof HTMLElement
       ) {
         const imageWrap = imageWrapEl;
-        const imageCard = imageCardEl;
-        let isMini = false;
+        const miniImage = miniImageEl;
 
         function updateMiniImage() {
           if (window.innerWidth > 768) {
-            imageCard.classList.remove("is-mini", "is-returning");
-            isMini = false;
+            miniImage.classList.remove("is-visible");
             return;
           }
 
-          const shouldMini =
+          const shouldShow =
             window.scrollY > imageWrap.offsetTop + imageWrap.offsetHeight;
 
-          if (shouldMini && !isMini) {
-            imageCard.classList.remove("is-returning");
-            imageCard.classList.add("is-mini");
-            isMini = true;
-          }
-
-          if (!shouldMini && isMini) {
-            imageCard.classList.remove("is-mini");
-            imageCard.classList.add("is-returning");
-            isMini = false;
-
-            setTimeout(() => {
-              imageCard.classList.remove("is-returning");
-            }, 450);
-          }
+          miniImage.classList.toggle("is-visible", shouldShow);
         }
 
         window.addEventListener("scroll", updateMiniImage, { passive: true });

@@ -1053,6 +1053,10 @@ select {
   display: block;
 }
 
+.player-image-mini {
+  display: none;
+}
+
 @media (max-width: 768px) {
   .player-profile-stats,
   .player-detail-layout,
@@ -1080,60 +1084,42 @@ select {
     height: 360px;
   }
 
-  .player-image-card.is-mini {
+  .player-image-mini {
+    display: block;
     position: fixed;
     right: 1rem;
     bottom: 1rem;
-    top: auto;
     width: 130px;
     min-height: 190px;
     border-radius: 1rem;
+    overflow: hidden;
     z-index: 9999;
+    background:
+      radial-gradient(
+        circle at 50% 10%,
+        rgba(128, 0, 32, 0.55),
+        transparent 42%
+      ),
+      linear-gradient(135deg, #2a0712, #080808);
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
-    animation: playerMiniDrop 0.45s ease both;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-75vh) scale(1.65);
+    transition:
+      transform 0.45s ease,
+      opacity 0.45s ease;
   }
 
-  .player-image-card.is-returning {
-    position: fixed;
-    right: 1rem;
-    bottom: 1rem;
-    top: auto;
-    width: 130px;
-    min-height: 190px;
-    border-radius: 1rem;
-    z-index: 9999;
-    animation: playerMiniReturn 0.45s ease both;
-  }
-
-  .player-image-card.is-mini img,
-  .player-image-card.is-returning img {
+  .player-image-mini img {
     width: 100%;
     height: 190px;
     object-fit: contain;
-  }
-}
-
-@keyframes playerMiniDrop {
-  from {
-    transform: translateY(-75vh) scale(1.65);
-    opacity: 0.65;
+    display: block;
   }
 
-  to {
-    transform: translateY(0) scale(1);
+  .player-image-mini.is-visible {
     opacity: 1;
-  }
-}
-
-@keyframes playerMiniReturn {
-  from {
     transform: translateY(0) scale(1);
-    opacity: 1;
-  }
-
-  to {
-    transform: translateY(-75vh) scale(1.65);
-    opacity: 0;
   }
 }
 
