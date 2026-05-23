@@ -294,6 +294,12 @@ h1 {
   object-position: center;
 }
 
+@media (max-width: 768px) {
+  .frontpage-photo img {
+    object-position: 73% center;
+  }
+}
+
 /* =========================================================
    Match archive
    ========================================================= */
