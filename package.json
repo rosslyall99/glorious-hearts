@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "latest",
+    "@astrojs/vercel": "^10.0.7",
     "astro": "latest",
     "resend": "^6.12.3"
   },
