@@ -6,7 +6,8 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "latest",
-    "astro": "latest"
+    "astro": "latest",
+    "resend": "^6.12.3"
   },
   "devDependencies": {
     "prettier": "^3.8.3",

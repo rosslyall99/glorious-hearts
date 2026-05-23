@@ -21,13 +21,7 @@ export default [
     
     Despite dominating possession for long spells, Hearts never really found full rhythm and were punished for a sloppy mistake before half-time when Josh Cooper intercepted a poor back-pass from Beni Baningime and calmly finished to level the match. Dunfermline grew into the game from there and, for a spell in the second half, looked capable of taking the tie all the way to penalties.
     
-    "Instead, it became the Lawrence Shankland show. With just over 15 minutes remaining, Alan Forrest was brought down in the box and the Hearts captain confidently restored the lead from the penalty spot. Minutes later, substitute Elton Kabunga was fouled in similar fashion and Shankland made no mistake again, sending the goalkeeper the wrong way for a second time. Stephen Kingsley then added gloss to the scoreline late on with an excellent finish, wrapping up a winning start for McInnes and a memorable return to Tynecastle for Shankland.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    "Instead, it became the Lawrence Shankland show. With just over 15 minutes remaining, Alan Forrest was brought down in the box and the Hearts captain confidently restored the lead from the penalty spot. Minutes later, substitute Elton Kabunga was fouled in similar fashion and Shankland made no mistake again, sending the goalkeeper the wrong way for a second time. Stephen Kingsley then added gloss to the scoreline late on with an excellent finish, wrapping up a winning start for McInnes and a memorable return to Tynecastle for Shankland.`,
     goals: [
       { team: "Hearts", scorer: "J. Wilson", minute: "3" },
       { team: "Dunfermline Athletic", scorer: "J. Cooper", minute: "38" },
@@ -64,13 +58,7 @@ export default [
 
     The visitors’ superior squad depth became increasingly evident after the break, particularly following the introduction of summer signing Claudio Braga. The Portuguese forward made an instant impact, setting up James Wilson within moments of coming on as the young striker scored for the second consecutive match to effectively end any lingering hopes of an Accies comeback.
 
-    Braga then capped an impressive cameo with a goal of his own, his strike from the edge of the box taking a deflection past goalkeeper Jamie Smith. Hamilton struggled to create meaningful opportunities throughout the evening and rarely threatened Ryan Fulton in the Hearts goal, as McInnes’ side comfortably maintained control to strengthen their position at the top of the group.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Braga then capped an impressive cameo with a goal of his own, his strike from the edge of the box taking a deflection past goalkeeper Jamie Smith. Hamilton struggled to create meaningful opportunities throughout the evening and rarely threatened Ryan Fulton in the Hearts goal, as McInnes’ side comfortably maintained control to strengthen their position at the top of the group.`,
     goals: [
       { team: "Hearts", scorer: "S. Findlay", minute: "6" },
       { team: "Hearts", scorer: "E. Kabangu", minute: "45+1" },
@@ -107,13 +95,7 @@ export default [
 
     With the result effectively secure, McInnes rotated heavily in the second half and introduced five substitutes, but Hearts still continued to dominate proceedings. Halkett was eventually credited with the fourth goal after Stuart Findlay attempted to apply the finishing touch on the line as goalkeeper Derek Gaston scrambled to keep the ball out.
 
-    The match was not without controversy, however, as Stirling players strongly disputed both the opening and closing goals. The hosts believed the corner leading to Hearts’ first should never have been awarded, while they also protested that Findlay had kicked the ball from Gaston’s grasp during the build-up to the fourth. Despite the complaints, Hearts comfortably secured another convincing win to sit six points clear at the top of the group and virtually guarantee progression to the knockout stages.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The match was not without controversy, however, as Stirling players strongly disputed both the opening and closing goals. The hosts believed the corner leading to Hearts’ first should never have been awarded, while they also protested that Findlay had kicked the ball from Gaston’s grasp during the build-up to the fourth. Despite the complaints, Hearts comfortably secured another convincing win to sit six points clear at the top of the group and virtually guarantee progression to the knockout stages.`,
     goals: [
       { team: "Hearts", scorer: "C. Halkett", minute: "13" },
       { team: "Hearts", scorer: "Claudio Braga", minute: "23" },
@@ -149,13 +131,7 @@ export default [
 
     The visitors briefly threatened to make a contest of it early in the second half when Scott Tomlinson rattled the crossbar with a superb effort, but Hearts quickly regained control. Alexandros Kyziridis, introduced at half-time, produced the standout moment of the evening with a brilliant individual goal, cutting inside before hammering a strike in off the post to continue his impressive start to life in Edinburgh.
 
-    Substitute Claudio Braga then completed the scoring after slamming home Cammy Devlin’s cut-back, maintaining his prolific start to the campaign with a third goal in three matches. The only concern for Hearts came late on when Frankie Kent was forced off holding his hamstring, although McInnes later reassured supporters that the substitution was only precautionary after another dominant and polished display from his side.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Substitute Claudio Braga then completed the scoring after slamming home Cammy Devlin’s cut-back, maintaining his prolific start to the campaign with a third goal in three matches. The only concern for Hearts came late on when Frankie Kent was forced off holding his hamstring, although McInnes later reassured supporters that the substitution was only precautionary after another dominant and polished display from his side.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "17" },
       { team: "Hearts", scorer: "M. Steinwender", minute: "45+3" },
@@ -191,13 +167,7 @@ export default [
 
     Aberdeen improved after the interval and created chances to get back into the game, but poor finishing proved costly. Yengi failed to take a promising opening and Adil Aouchiche could not connect with another dangerous opportunity despite the visitors generating strong attacking numbers. Hearts punished those misses late on when Stuart Findlay reacted quickest at the far post to nod home from another excellent Milne delivery and seal the points.
 
-    The performance only strengthened the growing excitement around Hearts under Derek McInnes. Claudio Braga again caught the eye with his movement and quality on the ball, while Milne delivered an outstanding display down the left flank, creating both goals and almost scoring one himself. Combined with the relentless energy of Cammy Devlin in midfield and the intensity generated by the Tynecastle crowd, Hearts looked every bit a side capable of challenging near the top end of the table this season.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The performance only strengthened the growing excitement around Hearts under Derek McInnes. Claudio Braga again caught the eye with his movement and quality on the ball, while Milne delivered an outstanding display down the left flank, creating both goals and almost scoring one himself. Combined with the relentless energy of Cammy Devlin in midfield and the intensity generated by the Tynecastle crowd, Hearts looked every bit a side capable of challenging near the top end of the table this season.`,
     goals: [
       { team: "Hearts", scorer: "G. Shinnie (OG)", minute: "11" },
       { team: "Hearts", scorer: "S. Findlay", minute: "73" },
@@ -378,13 +348,7 @@ export default [
 
     Just as the match appeared destined to end level, Hearts struck in stoppage time. Alexandros Kyziridis whipped another corner into the area and Findlay stooped brilliantly to glance a deft header beyond the goalkeeper and spark wild celebrations among the travelling support. The dramatic finish ensured Hearts extended their flawless start to the campaign, while Dundee United were left heartbroken after producing a spirited display despite a depleted squad.
 
-    The match also reinforced the growing sense that Hearts possess both resilience and momentum under McInnes. Findlay’s influence at both ends of the pitch was immense, Milne’s deliveries were consistently dangerous, and Braga again showed flashes of real quality. Even with questions lingering over Clark’s handling of United’s goals, Hearts found a way to win — a trait supporters will hope can sustain an emerging title challenge.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The match also reinforced the growing sense that Hearts possess both resilience and momentum under McInnes. Findlay’s influence at both ends of the pitch was immense, Milne’s deliveries were consistently dangerous, and Braga again showed flashes of real quality. Even with questions lingering over Clark’s handling of United’s goals, Hearts found a way to win — a trait supporters will hope can sustain an emerging title challenge.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland (pen)", minute: "19" },
       { team: "Dundee United", scorer: "I. Dolcek", minute: "22" },
@@ -568,13 +532,7 @@ export default [
 
     The hosts had taken the lead in the first half when Alex Gogic capitalised on poor Hearts marking to volley home acrobatically from Declan John’s chipped delivery. St Mirren threatened to extend their advantage, with Killian Phillips denied by Zander Clark, but Hearts gradually took control after the break. Substitute Braga and Lawrence Shankland both forced important saves from George before the equaliser finally arrived in the 78th minute, Oisin McEntee heading in Harry Milne’s corner to level the tie.
 
-    Neither side could find a winner during extra time, sending the contest to penalties where St Mirren were flawless from 12 yards through Richard King, Marcus Fraser, Jonah Ayunga, Evan Mooney and Malik Dijksteel. Braga’s miss ultimately proved decisive for Hearts, leaving Derek McInnes frustrated after feeling his side failed to make their dominance count, while Stephen Robinson celebrated another significant result as momentum continued to build following his recent contract extension.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Neither side could find a winner during extra time, sending the contest to penalties where St Mirren were flawless from 12 yards through Richard King, Marcus Fraser, Jonah Ayunga, Evan Mooney and Malik Dijksteel. Braga’s miss ultimately proved decisive for Hearts, leaving Derek McInnes frustrated after feeling his side failed to make their dominance count, while Stephen Robinson celebrated another significant result as momentum continued to build following his recent contract extension.`,
     goals: [
       { team: "St Mirren", scorer: "A. Gogic", minute: "34" },
       { team: "Hearts", scorer: "O. McEntee", minute: "78" },
@@ -610,13 +568,7 @@ export default [
 
     Despite salvaging a point and preserving their unbeaten start to the season, Hearts were left with plenty to reflect on after being comprehensively outplayed for long spells. Braga’s impact only intensified calls for him to become a permanent starter, while Beni Baningime’s second-half introduction also brought greater composure and control in midfield. For Motherwell, meanwhile, the draw felt deeply frustrating after producing some of their best football in years before collapsing under late pressure.
 
-    In the end, the game encapsulated both the promise and unpredictability of these two evolving sides. Hearts showed tremendous resilience and attacking quality to fight back from the brink, while Motherwell demonstrated that Jens Berthel Askou’s energetic, front-foot approach can trouble even the league’s strongest teams — even if their inability to see the match out ultimately cost them a famous victory.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    In the end, the game encapsulated both the promise and unpredictability of these two evolving sides. Hearts showed tremendous resilience and attacking quality to fight back from the brink, while Motherwell demonstrated that Jens Berthel Askou’s energetic, front-foot approach can trouble even the league’s strongest teams — even if their inability to see the match out ultimately cost them a famous victory.`,
     goals: [
       { team: "Motherwell", scorer: "C. Slattery", minute: "21" },
       { team: "Motherwell", scorer: "T. Maswanhise", minute: "49" },
@@ -799,13 +751,7 @@ export default [
 
     The match changed immediately after half-time following the introduction of Kyziridis. The winger instantly made an impact by winning the corner that led to Hearts’ equaliser before delivering the cross for Braga to head beyond Jerome Prior at the near post. Hearts suddenly looked transformed and piled pressure on the Livingston defence, while record signing Ageu showed flashes of quality on his debut and nearly helped create a second goal. Braga himself came agonisingly close when he struck the post with the net gaping after a scramble involving Ageu and Prior.
 
-    Just as the game appeared to be drifting towards a draw, Kyziridis delivered the decisive moment. Deep into injury time, the Greek winger burst clear on goal and calmly slotted a low finish beyond Prior to seal all three points and spark jubilant celebrations among the travelling support. While the comeback maintained Hearts’ unbeaten start and lifted them to the summit, the performance again raised questions about their sluggish first-half displays and reliance on dramatic second-half recoveries.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Just as the game appeared to be drifting towards a draw, Kyziridis delivered the decisive moment. Deep into injury time, the Greek winger burst clear on goal and calmly slotted a low finish beyond Prior to seal all three points and spark jubilant celebrations among the travelling support. While the comeback maintained Hearts’ unbeaten start and lifted them to the summit, the performance again raised questions about their sluggish first-half displays and reliance on dramatic second-half recoveries.`,
     goals: [
       { team: "Livingston", scorer: "L. Smith", minute: "26" },
       { team: "Hearts", scorer: "Claudio Braga", minute: "47" },
@@ -985,13 +931,7 @@ export default [
 
     The hosts improved dramatically after the break following a double substitution, with Djeidi Gassama striking the post and Schwolow making important saves to preserve Hearts’ advantage. Rangers thought they had equalised when Derek Cornelius bundled the ball home, only for the effort to be ruled out after a foul on the goalkeeper. Hearts weathered the pressure and eventually delivered the decisive blow late on when Harry Milne won a penalty after a VAR review. Although Butland initially saved Shankland’s spot-kick, the striker reacted quickest to convert the rebound and silence Ibrox.
 
-    The result further underlined the growing belief around Tynecastle that Derek McInnes’ side could mount a genuine title challenge this season. Hearts looked organised, aggressive and full of confidence throughout, while Shankland delivered a centre-forward performance McInnes later described as “a masterclass”. For Rangers, meanwhile, frustration and anxiety continued to grow as boos rang around Ibrox at full-time after another flat and error-strewn display.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result further underlined the growing belief around Tynecastle that Derek McInnes’ side could mount a genuine title challenge this season. Hearts looked organised, aggressive and full of confidence throughout, while Shankland delivered a centre-forward performance McInnes later described as “a masterclass”. For Rangers, meanwhile, frustration and anxiety continued to grow as boos rang around Ibrox at full-time after another flat and error-strewn display.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "21" },
       { team: "Hearts", scorer: "L. Shankland", minute: "82" },
@@ -1170,13 +1110,7 @@ export default [
 
     Any hopes Falkirk had of mounting another second-half comeback quickly disappeared after the interval. Craig Halkett rose superbly to glance a diving header beyond Bain from a Kyziridis corner, effectively ending the contest and capping another commanding performance from the defender. Hearts continued to overwhelm Falkirk with their movement and intensity, registering 20 shots and repeatedly forcing the visitors deep into their own half.
 
-    The victory further strengthened the growing belief around Tynecastle that this Hearts side may be capable of sustaining a serious challenge near the top of the league. Kyziridis and Milne were outstanding down the flanks, Halkett again proved a huge threat from set-pieces, and Shankland’s relentless consistency up front continued to drive the team forward. For Falkirk, meanwhile, the defeat highlighted the gulf still separating them from the division’s strongest sides despite their competitive start to life back in the top flight.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory further strengthened the growing belief around Tynecastle that this Hearts side may be capable of sustaining a serious challenge near the top of the league. Kyziridis and Milne were outstanding down the flanks, Halkett again proved a huge threat from set-pieces, and Shankland’s relentless consistency up front continued to drive the team forward. For Falkirk, meanwhile, the defeat highlighted the gulf still separating them from the division’s strongest sides despite their competitive start to life back in the top flight.`,
     goals: [
       { team: "Hearts", scorer: "A. Kyziridis", minute: "22" },
       { team: "Hearts", scorer: "L. Shankland", minute: "41" },
@@ -1356,13 +1290,7 @@ export default [
 
     Hearts struggled to create many clear openings themselves, though Alexandros Kyziridis nearly repeated his spectacular goal against Falkirk with another ambitious long-range strike that flew narrowly over. As the game drifted towards a goalless draw, Hibs appeared set to extend their unbeaten derby run, but a late defensive lapse from Grant Hanley handed Hearts one final opportunity. Kerjota delivered an excellent cross from the right and Halkett reacted brilliantly to volley beyond the goalkeeper and spark wild celebrations inside Tynecastle.
 
-    The victory further highlighted the resilience and mentality developing within Derek McInnes’ side, who have now collected several late winners already this season. While Hearts again showed an ability to grind out results even when not at their fluent best, Hibs were left to reflect on missed opportunities and another frustrating afternoon in front of goal after suffering their first league defeat of the campaign.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory further highlighted the resilience and mentality developing within Derek McInnes’ side, who have now collected several late winners already this season. While Hearts again showed an ability to grind out results even when not at their fluent best, Hibs were left to reflect on missed opportunities and another frustrating afternoon in front of goal after suffering their first league defeat of the campaign.`,
     goals: [{ team: "Hearts", scorer: "C. Halkett", minute: "90+1" }],
     imageFolder: "251004",
     tags: [],
@@ -1538,13 +1466,7 @@ export default [
 
     The second half belonged entirely to Hearts and especially Claudio Braga. The Portuguese forward reacted quickest after Eddie Beach could only parry an Alexandros Kyziridis effort, calmly slotting in the second goal before adding another moments later after Kyziridis capitalised on slack defending to release him clear through on goal. Braga rounded the goalkeeper with composure before finishing confidently to seal another emphatic away victory for McInnes’ side.
 
-    The result maintained Hearts’ unbeaten domestic run apart from their penalty shootout loss to St Mirren in the League Cup and highlighted the growing strength of the team’s spine. Halkett continued his excellent scoring form at the heart of defence, Devlin controlled midfield with relentless energy, and Braga again underlined why he has quickly become one of the signings of the season. For Kilmarnock, defensive lapses ultimately proved costly after a competitive opening spell, as Stuart Kettlewell’s side slipped down the table despite matching Hearts for intensity early on.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result maintained Hearts’ unbeaten domestic run apart from their penalty shootout loss to St Mirren in the League Cup and highlighted the growing strength of the team’s spine. Halkett continued his excellent scoring form at the heart of defence, Devlin controlled midfield with relentless energy, and Braga again underlined why he has quickly become one of the signings of the season. For Kilmarnock, defensive lapses ultimately proved costly after a competitive opening spell, as Stuart Kettlewell’s side slipped down the table despite matching Hearts for intensity early on.`,
     goals: [
       { team: "Hearts", scorer: "C. Halkett", minute: "19" },
       { team: "Hearts", scorer: "Claudio Braga", minute: "57" },
@@ -1724,13 +1646,7 @@ export default [
 
     The turning point came as Hearts rediscovered their intensity and attacking aggression before half-time. Alexandros Kyziridis, one of the standout performers of the season so far, drilled a superb low strike beyond Kasper Schmeichel from the edge of the area to restore Hearts’ lead. Moments later, Murray’s difficult afternoon worsened when he fouled Claudio Braga inside the box, allowing Lawrence Shankland to confidently convert the resulting penalty and give Hearts breathing space.
 
-    Celtic struggled badly in the second half to recover, hampered by injuries and a lack of attacking sharpness, while Hearts continued to look dangerous on the break and could easily have extended their advantage further. McInnes’ side once again showcased the organisation, work-rate and technical quality that have defined their remarkable start to the campaign, while Rodgers was left searching for answers after Celtic suffered back-to-back league defeats for the first time in two years. With Hearts now holding an eight-point lead at the summit, talk of an unlikely title challenge is only growing louder.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Celtic struggled badly in the second half to recover, hampered by injuries and a lack of attacking sharpness, while Hearts continued to look dangerous on the break and could easily have extended their advantage further. McInnes’ side once again showcased the organisation, work-rate and technical quality that have defined their remarkable start to the campaign, while Rodgers was left searching for answers after Celtic suffered back-to-back league defeats for the first time in two years. With Hearts now holding an eight-point lead at the summit, talk of an unlikely title challenge is only growing louder.`,
     goals: [
       { team: "Hearts", scorer: "D. Murray (OG)", minute: "8" },
       { team: "Celtic", scorer: "C. McGregor", minute: "12" },
@@ -1911,13 +1827,7 @@ export default [
 
     The game exploded into life after the break. Shankland missed a good chance early in the second half before St Mirren regained the lead through Miguel Freckleton, who lashed home from close range after Hearts failed to deal with a corner. Freckleton then thought he had made it 3-1 after following up his own header off the post, but VAR ruled the goal out because Mark O’Hara was judged to have interfered with play from an offside position. Moments later Hearts made the most of that reprieve when Alexandros Kyziridis’ curling effort was tipped onto the crossbar and Claudio Braga reacted quickest to head in the equaliser.
 
-    There was still time for more late drama as Hearts believed they had completed another remarkable comeback when Pierre Landry Kabore bundled the ball into the net in the closing minutes, only for VAR to intervene again and disallow the goal for offside. In the end, both sides could feel aggrieved not to have won after a thrilling contest full of momentum swings, controversial decisions and attacking football. While Hearts rode their luck at times, their refusal to settle for a draw underlined the confidence running through McInnes’ side as the title conversation around Tynecastle continues to grow.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    There was still time for more late drama as Hearts believed they had completed another remarkable comeback when Pierre Landry Kabore bundled the ball into the net in the closing minutes, only for VAR to intervene again and disallow the goal for offside. In the end, both sides could feel aggrieved not to have won after a thrilling contest full of momentum swings, controversial decisions and attacking football. While Hearts rode their luck at times, their refusal to settle for a draw underlined the confidence running through McInnes’ side as the title conversation around Tynecastle continues to grow.`,
     goals: [
       { team: "St Mirren", scorer: "D. Nlundulu", minute: "28" },
       { team: "Hearts", scorer: "L. Shankland", minute: "34" },
@@ -2098,13 +2008,7 @@ export default [
 
     The hosts took complete control after the break. Kabore grabbed his second goal after Jon McCracken could only push Blair Spittal’s strike onto the crossbar, leaving the forward with a simple finish into an empty net. Dundee briefly thought they had pulled one back through Simon Murray, only for the effort to be ruled out for offside, before substitute Tomas Bent Magnusson capped the victory by bundling home from another corner after McCracken had saved his initial effort.
 
-    The result extended Hearts’ unbeaten league run and further strengthened belief around Tynecastle that this could become a genuinely historic campaign. McInnes’ decision to rotate key figures such as Claudio Braga, Craig Halkett and Stephen Kingsley paid off handsomely, while Kabore seized his opportunity with an outstanding display up front. Shankland also continued his resurgence with another clinical finish, as Hearts showed they possess not only momentum and organisation, but increasingly the squad depth needed to sustain a title challenge across a long season.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result extended Hearts’ unbeaten league run and further strengthened belief around Tynecastle that this could become a genuinely historic campaign. McInnes’ decision to rotate key figures such as Claudio Braga, Craig Halkett and Stephen Kingsley paid off handsomely, while Kabore seized his opportunity with an outstanding display up front. Shankland also continued his resurgence with another clinical finish, as Hearts showed they possess not only momentum and organisation, but increasingly the squad depth needed to sustain a title challenge across a long season.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "31" },
       { team: "Hearts", scorer: "P. Kabore", minute: "38" },
@@ -2285,13 +2189,7 @@ export default [
 
     The second half became increasingly frantic as Hearts poured forward searching for a winner while United repeatedly looked dangerous on the break. Zac Sapsford twice found the net for the visitors only for both efforts to be ruled out for offside, while Amar Fatah also thought he had fired United ahead before another offside flag intervened after Sapsford strayed marginally beyond the last defender in the build-up. Hearts dominated territory, delivering 21 crosses and repeatedly forcing United back into their own box, but lacked the composure and final pass needed to break through.
 
-    Although the result cut Hearts’ lead over Celtic to seven points, the draw did little to diminish the impressive start McInnes’ side have made to the season. Dundee United, meanwhile, left Edinburgh with considerable credit after an organised and disciplined display despite their injury problems. Panutche Camara was outstanding in midfield for Jim Goodwin’s side, helping United withstand sustained pressure and proving instrumental in launching dangerous counter-attacks whenever opportunities arose.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Although the result cut Hearts’ lead over Celtic to seven points, the draw did little to diminish the impressive start McInnes’ side have made to the season. Dundee United, meanwhile, left Edinburgh with considerable credit after an organised and disciplined display despite their injury problems. Panutche Camara was outstanding in midfield for Jim Goodwin’s side, helping United withstand sustained pressure and proving instrumental in launching dangerous counter-attacks whenever opportunities arose.`,
     goals: [
       { team: "Hearts", scorer: "Y. Kucherenko (OG)", minute: "25" },
       { team: "Dundee United", scorer: "L. Stephenson", minute: "45" },
@@ -2470,13 +2368,7 @@ export default [
 
     Hearts continued to push after the break but could not find a breakthrough. Tomas Magnusson directed a free header straight at Mitov, while Claudio Braga was denied by an excellent save when he appeared certain to score. Without injured top scorer Lawrence Shankland, Hearts lacked their usual cutting edge in attack despite generating far more chances than the hosts, finishing the afternoon frustrated by another missed opportunity at Pittodrie — a ground where they have now failed to win since 2016.
 
-    Although the defeat exposed some growing concerns around Hearts’ momentum, the performance itself suggested there is little reason for panic just yet. McInnes’ side still controlled large spells and produced enough chances to win comfortably on another day, but their recent inability to convert pressure into points has allowed Celtic back into the title race. Aberdeen, meanwhile, earned praise for a disciplined defensive display led by Mats Knoester and Jack Milne, whose resilience helped secure an important victory despite limited attacking opportunities.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Although the defeat exposed some growing concerns around Hearts’ momentum, the performance itself suggested there is little reason for panic just yet. McInnes’ side still controlled large spells and produced enough chances to win comfortably on another day, but their recent inability to convert pressure into points has allowed Celtic back into the title race. Aberdeen, meanwhile, earned praise for a disciplined defensive display led by Mats Knoester and Jack Milne, whose resilience helped secure an important victory despite limited attacking opportunities.`,
     goals: [{ team: "Aberdeen", scorer: "T. Keskinen", minute: "39" }],
     imageFolder: "251123",
     tags: [],
@@ -2652,13 +2544,7 @@ export default [
 
     Hearts improved after the break and briefly threatened to snatch victory themselves. Lawrence Shankland came closest when his looping header from a corner appeared destined for the net before Hendry produced a superb goal-line clearance. However, the latter stages belonged largely to Motherwell, with Schwolow forced into a string of outstanding saves to deny Ibrahim Said, Lukas Fadingar and Callum Slattery as the home side piled on pressure in search of a winner.
 
-    The result continued a concerning dip in form for Derek McInnes’ side, who have now won just one of their last five league matches after such a blistering start to the campaign. While Hearts still showed resilience to leave Fir Park with a point, they looked far less fluent than earlier in the season and relied heavily on Schwolow’s brilliance to preserve the draw. Motherwell, meanwhile, produced another energetic and adventurous display under Jens Berthel Askou, but were left frustrated by their inability to convert superiority into victory.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result continued a concerning dip in form for Derek McInnes’ side, who have now won just one of their last five league matches after such a blistering start to the campaign. While Hearts still showed resilience to leave Fir Park with a point, they looked far less fluent than earlier in the season and relied heavily on Schwolow’s brilliance to preserve the draw. Motherwell, meanwhile, produced another energetic and adventurous display under Jens Berthel Askou, but were left frustrated by their inability to convert superiority into victory.`,
     goals: [],
     imageFolder: "251129",
     tags: [],
@@ -2834,13 +2720,7 @@ export default [
 
     However, Hearts once again paid the price for failing to kill the game off. Kilmarnock had shown signs of threat throughout, with Marcus Dackers striking the crossbar during a dangerous spell for the visitors, and they eventually found a way through in the final minute. Liam Polworth’s long-range effort was spilled by Alexander Schwolow and Anderson reacted quickest to bundle home the rebound and spark wild celebrations among the travelling support.
 
-    The result deepened concerns over Hearts’ recent loss of momentum after their blistering start to the season. Despite controlling possession and flooding the Kilmarnock box with crosses, McInnes’ side again lacked the cutting edge needed to turn dominance into victory. Kilmarnock, meanwhile, earned a deserved point for their resilience and attacking intent late in the game, offering encouragement to Stuart Kettlewell after a difficult run of results.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result deepened concerns over Hearts’ recent loss of momentum after their blistering start to the season. Despite controlling possession and flooding the Kilmarnock box with crosses, McInnes’ side again lacked the cutting edge needed to turn dominance into victory. Kilmarnock, meanwhile, earned a deserved point for their resilience and attacking intent late in the game, offering encouragement to Stuart Kettlewell after a difficult run of results.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "49" },
       { team: "Kilmarnock", scorer: "B. Anderson", minute: "90" },
@@ -3019,13 +2899,7 @@ export default [
 
     Celtic dominated possession for long spells and gradually increased the pressure as Nancy introduced more attacking players and altered his tactical setup. Engels was denied by an outstanding save from Alexander Schwolow before Reo Hatate rattled the crossbar, while Hearts defended resolutely and continued to threaten on the counter-attack. Kieran Tierney eventually pulled one back deep into stoppage time, but it came too late to prevent another damaging league defeat for the hosts. 
 
-    The victory reinforced the growing belief around Tynecastle that Hearts are capable of sustaining a genuine title push this season. McInnes’ side combined organisation, aggression and belief throughout, repeatedly winning key duels and frustrating Celtic’s attempts to break them down. For Nancy, meanwhile, the match highlighted both the promise and the challenges of implementing his new tactical system, with Celtic showing flashes of quality but ultimately being outfought and punished at both ends of the pitch.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory reinforced the growing belief around Tynecastle that Hearts are capable of sustaining a genuine title push this season. McInnes’ side combined organisation, aggression and belief throughout, repeatedly winning key duels and frustrating Celtic’s attempts to break them down. For Nancy, meanwhile, the match highlighted both the promise and the challenges of implementing his new tactical system, with Celtic showing flashes of quality but ultimately being outfought and punished at both ends of the pitch.`,
     goals: [
       { team: "Hearts", scorer: "Claudio Braga", minute: "43" },
       { team: "Hearts", scorer: "O. McEntee", minute: "64" },
@@ -3205,13 +3079,7 @@ export default [
 
     Hearts gradually asserted more control after the break and showed the composure of an experienced side in difficult conditions. Falkirk struggled to create clear openings in the second half, while McInnes’ team increasingly forced the hosts deeper and limited their attacking threat. The decisive second goal arrived in spectacular fashion when Stephen Kingsley, introduced partly to help shore things up defensively, unleashed a stunning strike from the edge of the box to seal the points with 13 minutes remaining.
 
-    The victory represented another important test passed for Hearts as they attempted to build momentum following their huge win at Celtic Park the previous week. McInnes’ side combined resilience, organisation and moments of real quality to grind out an important away result in conditions many teams would have struggled with. For Falkirk, meanwhile, it was another encouraging performance without reward, as their recent struggles in front of goal continued despite long spells of determined resistance.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory represented another important test passed for Hearts as they attempted to build momentum following their huge win at Celtic Park the previous week. McInnes’ side combined resilience, organisation and moments of real quality to grind out an important away result in conditions many teams would have struggled with. For Falkirk, meanwhile, it was another encouraging performance without reward, as their recent struggles in front of goal continued despite long spells of determined resistance.`,
     goals: [
       { team: "Hearts", scorer: "Claudio Braga", minute: "2" },
       { team: "Hearts", scorer: "S. Kingsley", minute: "77" },
@@ -3390,13 +3258,7 @@ export default [
 
     The momentum shifted dramatically midway through the first half. Claudio Braga’s clever backheel from a corner created space for Kyziridis to deliver an excellent cross which Stuart Findlay powered home with a commanding header. Rangers then wilted under increasing pressure and Hearts struck again when Braga flicked on for Shankland, who somehow squeezed a fierce low drive past Jack Butland at the near post to double the advantage before half-time. 
 
-    Hearts controlled much of the second half and could easily have extended their lead, with Shankland missing further chances and Butland producing an important save to keep Rangers alive. Youssef Chermiti eventually pulled one back in stoppage time after capitalising on a Frankie Kent error, but it came too late to prevent another damaging defeat for Danny Rohl’s side. The result left Hearts nine points clear before Celtic’s later win reduced the gap to six, while Rangers were left 12 points behind the Tynecastle side after suffering a second league defeat of the season — both against Hearts.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Hearts controlled much of the second half and could easily have extended their lead, with Shankland missing further chances and Butland producing an important save to keep Rangers alive. Youssef Chermiti eventually pulled one back in stoppage time after capitalising on a Frankie Kent error, but it came too late to prevent another damaging defeat for Danny Rohl’s side. The result left Hearts nine points clear before Celtic’s later win reduced the gap to six, while Rangers were left 12 points behind the Tynecastle side after suffering a second league defeat of the season — both against Hearts. `,
     goals: [
       { team: "Hearts", scorer: "S. Findlay", minute: "38" },
       { team: "Hearts", scorer: "L. Shankland", minute: "42" },
@@ -3576,13 +3438,7 @@ export default [
 
     Things worsened for Derek McInnes’ side immediately after the restart when Stuart Findlay’s poor clearance allowed Kieron Bowie to surge forward and drive home Hibs’ third goal. At that stage the league leaders looked completely rattled, but they suddenly sprang to life in the closing stages. Alexandros Kyziridis became increasingly influential and his dangerous delivery allowed Shankland to head home and spark hope for the visitors. Moments later Sallinger parried another Kyziridis effort into the path of Cammy Devlin, who converted the rebound to set up a frantic finale.
 
-    Hearts pushed desperately for an equaliser, but Sallinger produced two outstanding late saves to deny both Shankland and Beni Baningime and preserve a famous derby victory for David Gray’s side. The defeat cut Hearts’ lead at the top of the table and exposed defensive vulnerabilities that had been masked during their strong run, while Hibs celebrated one of their biggest wins of the season after producing a performance full of intensity, attacking quality and resilience under immense late pressure.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Hearts pushed desperately for an equaliser, but Sallinger produced two outstanding late saves to deny both Shankland and Beni Baningime and preserve a famous derby victory for David Gray’s side. The defeat cut Hearts’ lead at the top of the table and exposed defensive vulnerabilities that had been masked during their strong run, while Hibs celebrated one of their biggest wins of the season after producing a performance full of intensity, attacking quality and resilience under immense late pressure.`,
     goals: [
       { team: "Hibernian", scorer: "J. McGrath", minute: "3" },
       { team: "Hibernian", scorer: "J. Campbell", minute: "45" },
@@ -3764,13 +3620,7 @@ export default [
 
     The visitors looked completely different after half-time and began to trouble Hearts with a more direct and aggressive approach. Tete Yengi became a major threat, repeatedly testing Alexander Schwolow with three good chances, including a sharp effort after turning inside Stuart Findlay in the penalty area. Hearts suddenly appeared unsettled and increasingly anxious as Livingston pushed for an equaliser, forcing McInnes to reinforce his defence late on to protect the narrow advantage.
 
-    Although far from comfortable in the end, the victory represented an important response from Hearts following their derby defeat to Hibernian. Their dominant first-half display again highlighted the attacking quality and energy that has driven their title challenge, while Schwolow’s key saves after the break ensured they secured another crucial three points. Livingston, meanwhile, were left frustrated after a spirited second-half performance, but their long winless run continued despite signs of improvement.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Although far from comfortable in the end, the victory represented an important response from Hearts following their derby defeat to Hibernian. Their dominant first-half display again highlighted the attacking quality and energy that has driven their title challenge, while Schwolow’s key saves after the break ensured they secured another crucial three points. Livingston, meanwhile, were left frustrated after a spirited second-half performance, but their long winless run continued despite signs of improvement.`,
     goals: [{ team: "Hearts", scorer: "C. Halkett", minute: "18" }],
     imageFolder: "260103",
     tags: [],
@@ -3946,13 +3796,7 @@ export default [
 
     That forced veteran Craig Gordon into action for his first appearance since helping Scotland qualify for the World Cup, and the experienced goalkeeper produced a masterclass in resilience and shot-stopping. Dundee dominated possession after the interval and repeatedly pushed for an equaliser, but Gordon denied Billy Koumetio and Drey Wright before producing an astonishing stoppage-time save to preserve the points. Emile Acquah’s powerful header appeared destined for the bottom corner until Gordon somehow flung himself to his left and clawed the ball away in a moment instantly hailed as one of the saves of the season.
 
-    The victory further strengthened belief around Tynecastle that Hearts possess the resilience required for a genuine title challenge. McInnes’ side defended with determination and organisation despite being a man down for more than half the match, while Gordon’s heroics provided one of the defining moments of their campaign so far. Dundee, meanwhile, were left frustrated after creating enough chances and pressure to deserve at least a point, but their inability to find a breakthrough ultimately cost them against a Hearts side increasingly convinced something special may be unfolding.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory further strengthened belief around Tynecastle that Hearts possess the resilience required for a genuine title challenge. McInnes’ side defended with determination and organisation despite being a man down for more than half the match, while Gordon’s heroics provided one of the defining moments of their campaign so far. Dundee, meanwhile, were left frustrated after creating enough chances and pressure to deserve at least a point, but their inability to find a breakthrough ultimately cost them against a Hearts side increasingly convinced something special may be unfolding.`,
     goals: [{ team: "Hearts", scorer: "Claudio Braga", minute: "27" }],
     imageFolder: "260111",
     tags: [],
@@ -4128,13 +3972,7 @@ export default [
 
     The breakthrough finally arrived just after the hour mark when Blair Spittal combined cleverly with Kyziridis before sliding a pass into Lawrence Shankland, who swept a first-time finish into the bottom corner. Hearts then defended with determination while continuing to threaten on the break, and substitute Tomas Magnusson sealed the victory after Pierre Landry Kabore’s persistence created an opening. Harry Milne’s shot was saved by Shamal George, but Magnusson reacted quickest to head home the rebound and settle the match. 
 
-    The result further strengthened the growing sense that Hearts possess the mentality and resilience required of genuine title contenders. Despite playing with 10 men for more than 75 minutes, McInnes’ side remained disciplined, aggressive and dangerous throughout, feeding off a fierce Tynecastle atmosphere that turned increasingly defiant after Baningime’s dismissal. For St Mirren, meanwhile, another frustrating defeat extended their poor run of league form, with injuries and defensive mistakes continuing to undermine Stephen Robinson’s side.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result further strengthened the growing sense that Hearts possess the mentality and resilience required of genuine title contenders. Despite playing with 10 men for more than 75 minutes, McInnes’ side remained disciplined, aggressive and dangerous throughout, feeding off a fierce Tynecastle atmosphere that turned increasingly defiant after Baningime’s dismissal. For St Mirren, meanwhile, another frustrating defeat extended their poor run of league form, with injuries and defensive mistakes continuing to undermine Stephen Robinson’s side.`,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "60" },
       { team: "Hearts", scorer: "T. Magnusson", minute: "80" },
@@ -4317,13 +4155,7 @@ export default [
 
     Hearts responded through Lawrence Shankland after substitute Islam Chesnokov was fouled inside the area. The striker calmly converted the penalty to force extra time, but the match swung back in Falkirk’s favour as the visitors looked the stronger side during the additional period. Calvin Miller forced a full-stretch save from Alexander Schwolow, while Louie Marsh missed a great chance from close range as Falkirk pushed for a winner before penalties became unavoidable.
 
-    The shootout was almost flawless from the visitors, with Brad Spencer, Liam Henderson, Brian Graham, Dylan Tait and Parkinson all converting confidently. Hearts matched them through Blair Spittal, Alexandros Kyziridis, Pierre Landry Kabore and Harry Milne, but Kabangu’s miss ultimately proved fatal. The defeat was a huge blow for Derek McInnes’ side, who must now focus entirely on their league title challenge while anxiously monitoring injuries to Shankland and Beni Baningime after another physically draining encounter.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The shootout was almost flawless from the visitors, with Brad Spencer, Liam Henderson, Brian Graham, Dylan Tait and Parkinson all converting confidently. Hearts matched them through Blair Spittal, Alexandros Kyziridis, Pierre Landry Kabore and Harry Milne, but Kabangu’s miss ultimately proved fatal. The defeat was a huge blow for Derek McInnes’ side, who must now focus entirely on their league title challenge while anxiously monitoring injuries to Shankland and Beni Baningime after another physically draining encounter.`,
     goals: [
       { team: "Falkirk", scorer: "B. Parkinson", minute: "59" },
       { team: "Hearts", scorer: "L. Shankland (pen)", minute: "86" },
@@ -4357,13 +4189,7 @@ export default [
 
     The home side carried that momentum into the second half and deservedly equalised when Stuart Findlay headed home after Leonard’s corner had been nodded back across goal. However, Celtic responded quickly through substitute Yang Hyun-jun after new signing Tomas Cvancara sparked a dangerous counterattack with a powerful run and cross. Just as the game appeared to be drifting Celtic’s way, a VAR review upgraded Auston Trusty’s yellow card to a red for a last-man foul on Pierre Landry Kabore, handing Hearts renewed belief. 
 
-    With the numerical advantage, Hearts pushed relentlessly in the closing stages and finally found their breakthrough when Braga fired home from inside a crowded penalty area with four minutes remaining. Blair Spittal almost completed a dramatic comeback moments later when his effort crashed against the crossbar, but Hearts ultimately had to settle for a point. Even so, the performance reinforced McInnes’ belief that his side can compete with the Old Firm over the long term, while Celtic were left frustrated after seeing victory slip away despite another spirited display under interim manager Martin O’Neill.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    With the numerical advantage, Hearts pushed relentlessly in the closing stages and finally found their breakthrough when Braga fired home from inside a crowded penalty area with four minutes remaining. Blair Spittal almost completed a dramatic comeback moments later when his effort crashed against the crossbar, but Hearts ultimately had to settle for a point. Even so, the performance reinforced McInnes’ belief that his side can compete with the Old Firm over the long term, while Celtic were left frustrated after seeing victory slip away despite another spirited display under interim manager Martin O’Neill. `,
     goals: [
       { team: "Celtic", scorer: "B. Nygren", minute: "7" },
       { team: "Hearts", scorer: "S. Findlay", minute: "48" },
@@ -4544,13 +4370,7 @@ export default [
 
     With the numerical advantage, Hearts dominated possession and repeatedly carved open the depleted United defence after the break. Debutant goalkeeper Ashley Maynard-Brewer prevented the scoreline from becoming even heavier with a series of excellent saves, denying Kabore twice while also tipping over a fierce effort from Milne. However, Dundee United’s resistance collapsed completely when substitute Panutche Camara was sent off for appearing to move his head towards Leonard, reducing the hosts to nine men for the closing stages.
 
-    Kabore eventually grabbed his second goal late on with a deflected strike after another scramble in the penalty area, capping a superb individual performance and sparking celebrations among the travelling support. Hearts once again showed the strength and depth of their squad despite missing key players including Lawrence Shankland, Cammy Devlin and Beni Baningime, while Marc Leonard continued to impress in midfield following his recent arrival. For Dundee United, meanwhile, a third straight league defeat without scoring deepened concerns over their form and discipline as frustration boiled over throughout a miserable evening at Tannadice.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Kabore eventually grabbed his second goal late on with a deflected strike after another scramble in the penalty area, capping a superb individual performance and sparking celebrations among the travelling support. Hearts once again showed the strength and depth of their squad despite missing key players including Lawrence Shankland, Cammy Devlin and Beni Baningime, while Marc Leonard continued to impress in midfield following his recent arrival. For Dundee United, meanwhile, a third straight league defeat without scoring deepened concerns over their form and discipline as frustration boiled over throughout a miserable evening at Tannadice.`,
     goals: [
       { team: "Hearts", scorer: "P. Kabore", minute: "11" },
       { team: "Hearts", scorer: "A. Kyziridis (pen)", minute: "29" },
@@ -4730,13 +4550,7 @@ export default [
 
     Despite being under relentless pressure, Hearts somehow reached half-time level and almost managed to cling on for a point thanks largely to Schwolow’s heroics. The goalkeeper produced a remarkable save to deny Mikael Mandron from close range in the second half, keeping the visitors alive as McInnes’ side increasingly focused on survival rather than chasing victory. However, the resistance was finally broken two minutes from time when Declan John’s dangerous corner was met by Freckleton, who powered a header beyond Schwolow to spark celebrations among the home support. 
 
-    For St Mirren, the result represented a huge boost after a difficult run of form following their League Cup triumph, with Stephen Robinson’s side rediscovering the aggression and intensity that had made them so difficult to play against earlier in the campaign. Hearts, meanwhile, were left to reflect on another costly red card and a performance far below the standards that had carried them to the top of the table, as their once-commanding lead in the title race continued to narrow.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    For St Mirren, the result represented a huge boost after a difficult run of form following their League Cup triumph, with Stephen Robinson’s side rediscovering the aggression and intensity that had made them so difficult to play against earlier in the campaign. Hearts, meanwhile, were left to reflect on another costly red card and a performance far below the standards that had carried them to the top of the table, as their once-commanding lead in the title race continued to narrow. `,
     goals: [{ team: "St Mirren", scorer: "M. Freckleton", minute: "88" }],
     imageFolder: "260203",
     tags: [],
@@ -4912,13 +4726,7 @@ export default [
 
     With key figures such as Lawrence Shankland, Cammy Devlin and Craig Halkett absent, Hearts often looked short of fluency and leadership in attack, while Hibs arguably appeared the calmer and more composed side for long spells. However, just as the game seemed to be drifting towards a draw, Harry Milne drove a dangerous low cross into the box and substitute Magnusson reacted quickest to poke home from close range and send Tynecastle into chaos.
 
-    The victory represented another huge emotional moment in Hearts’ remarkable campaign and restored momentum after their defeat to St Mirren the previous week. McInnes’ side again showed a knack for finding decisive late goals in pressure moments, reinforcing the growing belief around Tynecastle that something special may be unfolding this season. For Hibs, meanwhile, the defeat was another painful derby blow after a performance in which they competed strongly but once again failed to make their superiority count.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory represented another huge emotional moment in Hearts’ remarkable campaign and restored momentum after their defeat to St Mirren the previous week. McInnes’ side again showed a knack for finding decisive late goals in pressure moments, reinforcing the growing belief around Tynecastle that something special may be unfolding this season. For Hibs, meanwhile, the defeat was another painful derby blow after a performance in which they competed strongly but once again failed to make their superiority count.`,
     goals: [{ team: "Hearts", scorer: "T. Magnusson", minute: "88" }],
     imageFolder: "260210",
     tags: [],
@@ -5094,13 +4902,7 @@ export default [
 
     The momentum swung decisively in Rangers’ favour after the interval. Chermiti headed the home side in front for the first time from a brilliant Andreas Skov Olsen cross, before completing his hat-trick late on after Djeidi Gassama surged clear on the counterattack and squared for the striker to finish coolly. Hearts continued to threaten sporadically, with Alexandros Kyziridis testing Butland and Rangers appealing unsuccessfully for a penalty, but McInnes’ side increasingly looked vulnerable whenever they lost possession high up the pitch. 
 
-    For Rangers, the victory represented another major statement under Rohl and continued their growing momentum in the title race, with Chermiti delivering one of the standout individual performances of the season. Hearts, meanwhile, were left frustrated after twice leading but ultimately paying the price for costly turnovers and defensive instability in transition. Despite the defeat, McInnes insisted his side remained firmly in the fight, particularly with a favourable fixture run and several key home games still to come.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    For Rangers, the victory represented another major statement under Rohl and continued their growing momentum in the title race, with Chermiti delivering one of the standout individual performances of the season. Hearts, meanwhile, were left frustrated after twice leading but ultimately paying the price for costly turnovers and defensive instability in transition. Despite the defeat, McInnes insisted his side remained firmly in the fight, particularly with a favourable fixture run and several key home games still to come. `,
     goals: [
       { team: "Hearts", scorer: "M. Leonard", minute: "16" },
       { team: "Rangers", scorer: "M. Steinwender (OG)", minute: "19" },
@@ -5283,13 +5085,7 @@ export default [
 
     The home side looked more assured after the break and pushed for a second goal to ease the tension. Bain produced fine saves to deny Claudio Braga and Alexandros Kyziridis, while Filip Lissah made a crucial intervention to stop Tomas Magnusson converting after another dangerous Hearts attack. Despite dominating much of the second half, Hearts could not find the finishing touch to kill the game off and were forced to navigate another nervy ending.
 
-    The victory was an important boost for Hearts amid growing injury concerns that threaten to derail their title challenge. Beni Baningime missed out before kick-off, Ageu withdrew during the warm-up and Stuart Findlay limped off injured in the second half, adding to an already extensive absentee list that includes Lawrence Shankland, Cammy Devlin and Stephen Kingsley. While the performance itself was far from spectacular, McInnes’ side showed the resilience and discipline required at this stage of the season, grinding out a valuable win when anything less would have intensified pressure in the title race.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory was an important boost for Hearts amid growing injury concerns that threaten to derail their title challenge. Beni Baningime missed out before kick-off, Ageu withdrew during the warm-up and Stuart Findlay limped off injured in the second half, adding to an already extensive absentee list that includes Lawrence Shankland, Cammy Devlin and Stephen Kingsley. While the performance itself was far from spectacular, McInnes’ side showed the resilience and discipline required at this stage of the season, grinding out a valuable win when anything less would have intensified pressure in the title race.`,
     goals: [{ team: "Hearts", scorer: "I. Chesnokov", minute: "45" }],
     imageFolder: "260221",
     tags: [],
@@ -5465,13 +5261,7 @@ export default [
 
     Aberdeen improved after the break following a tactical reshuffle and the introduction of Stuart Armstrong, with Topi Keskinen and Toyosi Olusanya combining dangerously at times and Kevin Nisbet volleying narrowly wide. However, despite becoming more competitive, the visitors rarely looked capable of breaking down a disciplined Hearts defence. Late penalty appeals involving Armstrong and Nisbet were dismissed by the officials, adding to Aberdeen’s frustration as another scoreless away performance stretched into 2026.
 
-    For Hearts, the victory represented another huge step towards a first league title since 1960. McInnes’ side once again combined intensity, organisation and belief, controlling large periods of the match while creating far more chances than the narrow scoreline suggested. With only nine league games remaining, the sense around Tynecastle is increasingly shifting from hopeful excitement to genuine expectation, while Aberdeen’s season continues to drift dangerously towards a disappointing bottom-six finish.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    For Hearts, the victory represented another huge step towards a first league title since 1960. McInnes’ side once again combined intensity, organisation and belief, controlling large periods of the match while creating far more chances than the narrow scoreline suggested. With only nine league games remaining, the sense around Tynecastle is increasingly shifting from hopeful excitement to genuine expectation, while Aberdeen’s season continues to drift dangerously towards a disappointing bottom-six finish.`,
     goals: [{ team: "Hearts", scorer: "Claudio Braga", minute: "28" }],
     imageFolder: "260228",
     tags: [],
@@ -5647,13 +5437,7 @@ export default [
 
     Derek McInnes attempted to inject more urgency after the interval by introducing Islam Chesnokov, but Hearts never truly found rhythm or fluency against an energetic and disciplined Kilmarnock side. The hosts defended with determination while still threatening sporadically on the counterattack, and Hearts’ late pressure amounted largely to hopeful deliveries into the box rather than clear-cut opportunities. Despite dominating possession, the visitors lacked their usual sharpness and creativity in the final third. 
 
-    The result intensified the pressure in the title race with only eight games remaining and renewed questions about whether Hearts can sustain their challenge under mounting expectation. While McInnes insisted his side remain firmly in control of their own destiny, the defeat exposed vulnerabilities that have emerged more frequently in recent weeks as injuries and fatigue continue to stretch the squad. For Kilmarnock, meanwhile, the victory could prove pivotal in their battle to avoid relegation, with an outstanding collective display reigniting belief at Rugby Park.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The result intensified the pressure in the title race with only eight games remaining and renewed questions about whether Hearts can sustain their challenge under mounting expectation. While McInnes insisted his side remain firmly in control of their own destiny, the defeat exposed vulnerabilities that have emerged more frequently in recent weeks as injuries and fatigue continue to stretch the squad. For Kilmarnock, meanwhile, the victory could prove pivotal in their battle to avoid relegation, with an outstanding collective display reigniting belief at Rugby Park.`,
     goals: [
       { team: "Kilmarnock", scorer: "M. Schjonning-Larsen", minute: "17" },
     ],
@@ -5831,13 +5615,7 @@ export default [
 
     The decisive moment finally arrived 13 minutes from time when Marc Leonard delivered an inviting free-kick and McEntee escaped his marker to power a header beyond the goalkeeper, sparking huge celebrations inside the stadium. Hearts then had to navigate a nervy finish after Frankie Kent was sent off in stoppage time for a second booking, but Dundee could not capitalise despite throwing bodies forward in the closing moments.
 
-    The victory highlighted both the strengths and vulnerabilities of Hearts’ title challenge. Their attacking fluency has dipped in recent weeks, particularly following Lawrence Shankland’s injury absence, but McInnes’ side continue to show resilience, defensive solidity and a knack for finding decisive moments under pressure. Shankland’s return from the bench and Cammy Devlin’s comeback from injury provided timely boosts heading into the final stretch of the campaign, while Dundee were left frustrated after another competitive display ultimately undone by a single lapse at a set-piece.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory highlighted both the strengths and vulnerabilities of Hearts’ title challenge. Their attacking fluency has dipped in recent weeks, particularly following Lawrence Shankland’s injury absence, but McInnes’ side continue to show resilience, defensive solidity and a knack for finding decisive moments under pressure. Shankland’s return from the bench and Cammy Devlin’s comeback from injury provided timely boosts heading into the final stretch of the campaign, while Dundee were left frustrated after another competitive display ultimately undone by a single lapse at a set-piece.`,
     goals: [{ team: "Hearts", scorer: "O. McEntee", minute: "77" }],
     imageFolder: "260321",
     tags: [],
@@ -6013,13 +5791,7 @@ export default [
 
     After a dramatic change in weather during the interval, Hearts emerged strongly in the snow and turned the match around when Shankland nodded a looping header back across goal for Claudio Braga to leap above his marker and score. However, the visitors’ lead lasted only seven minutes as sloppy defending allowed Livingston to break quickly and square for Lewis Smith to equalise at the back post. Hearts then faded badly in the closing stages, struggling to regain control while Livingston increasingly looked the more dangerous side. 
 
-    The draw highlighted growing concerns over Hearts’ away form and their ability to handle the mounting pressure of the title race. While Shankland’s return gave the side a much-needed focal point in attack, McInnes’ team again looked vulnerable defensively and increasingly anxious once they took the lead. Matters worsened in stoppage time when Marc Leonard was sent off for hauling down Robbie Muirhead as Livingston threatened a late winner. For Livingston, meanwhile, the performance was another spirited display that demonstrated resilience and tactical organisation despite their dire league position.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The draw highlighted growing concerns over Hearts’ away form and their ability to handle the mounting pressure of the title race. While Shankland’s return gave the side a much-needed focal point in attack, McInnes’ team again looked vulnerable defensively and increasingly anxious once they took the lead. Matters worsened in stoppage time when Marc Leonard was sent off for hauling down Robbie Muirhead as Livingston threatened a late winner. For Livingston, meanwhile, the performance was another spirited display that demonstrated resilience and tactical organisation despite their dire league position. `,
     goals: [
       { team: "Livingston", scorer: "S. May", minute: "5" },
       { team: "Hearts", scorer: "L. Shankland", minute: "24" },
@@ -6200,13 +5972,7 @@ export default [
 
     Motherwell seized control shortly after the break when Tawanda Maswanhise burst down the flank and squared for Emmanuel Longelo to slot home at the back post. The visitors looked the more fluid and dangerous side for much of the second half and missed several opportunities to extend their lead, with Longelo, Elijah Just and Maswanhise all passing up promising chances as Hearts struggled to regain momentum.
 
-    However, Hearts once again found a way back through sheer resilience and belief. Claudio Braga ignited the comeback with an acrobatic overhead kick from close range after a VAR check confirmed the goal, before the decisive moment arrived five minutes from time when Stephen Welsh caught Pierre Landry Kabore high with his boot inside the area. Shankland calmly converted the resulting penalty before Kabore sealed victory moments later with an excellent solo finish off the near post. The comeback extended Hearts’ remarkable home form and reinforced the growing sense that McInnes’ side possess the mentality required to sustain a genuine title challenge deep into the season.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    However, Hearts once again found a way back through sheer resilience and belief. Claudio Braga ignited the comeback with an acrobatic overhead kick from close range after a VAR check confirmed the goal, before the decisive moment arrived five minutes from time when Stephen Welsh caught Pierre Landry Kabore high with his boot inside the area. Shankland calmly converted the resulting penalty before Kabore sealed victory moments later with an excellent solo finish off the near post. The comeback extended Hearts’ remarkable home form and reinforced the growing sense that McInnes’ side possess the mentality required to sustain a genuine title challenge deep into the season.`,
     goals: [
       { team: "Motherwell", scorer: "E. Longelo", minute: "50" },
       { team: "Hearts", scorer: "Claudio Braga", minute: "61" },
@@ -6387,13 +6153,7 @@ export default [
 
     Despite their overwhelming numerical advantage, Hearts struggled badly to break Hibs down. Substitute goalkeeper Jordan Smith produced a string of excellent saves, Marc Leonard struck the crossbar and countless crosses and corners were repelled as frustration and anxiety spread through the travelling support. Hearts dominated possession and territory but lacked composure and clear openings as Hibs defended desperately and intelligently for long stretches.
 
-    The pressure finally told when Lawrence Shankland forced the equaliser, with the goal ultimately credited as an own goal by Warren O’Hora after a chaotic scramble in the six-yard box. Even then Hearts continued to labour before Spittal finally delivered the decisive moment, calmly guiding a deflected finish beyond Smith with only minutes remaining. The dramatic comeback maintained Hearts’ position at the summit and reinforced the resilience that has defined their title challenge, while Hibs were left to reflect on a brave but self-inflicted collapse after two costly dismissals undermined an otherwise heroic defensive effort.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The pressure finally told when Lawrence Shankland forced the equaliser, with the goal ultimately credited as an own goal by Warren O’Hora after a chaotic scramble in the six-yard box. Even then Hearts continued to labour before Spittal finally delivered the decisive moment, calmly guiding a deflected finish beyond Smith with only minutes remaining. The dramatic comeback maintained Hearts’ position at the summit and reinforced the resilience that has defined their title challenge, while Hibs were left to reflect on a brave but self-inflicted collapse after two costly dismissals undermined an otherwise heroic defensive effort.`,
     goals: [
       { team: "Hibernian", scorer: "M. Boyle", minute: "7" },
       { team: "Hearts", scorer: "W. O'Hora (OG)", minute: "65" },
@@ -6573,13 +6333,7 @@ export default [
 
     However, the match completely shifted after the interval as Hearts emerged with greater aggression and confidence. Stephen Kingsley brought the hosts level after Kyziridis’ shot crashed back off the post, before Blair Spittal’s introduction added fresh energy and composure in midfield. Hearts increasingly pinned Rangers back and eventually found the decisive moment when Kingsley chased a loose ball near the byline and delivered for Shankland, who produced a magnificent first-time finish from a tight angle to send Tynecastle into delirium.
 
-    Rangers almost snatched a late equaliser when Thelo Aasgaard headed against the crossbar, but Hearts held firm to claim another potentially defining victory in their extraordinary campaign. McInnes’ side once again demonstrated the resilience and belief that has carried them through the title race, while Shankland delivered yet another huge contribution in a season filled with decisive moments. With three games remaining, Hearts now stand tantalisingly close to a first league title since 1960 and one of the most improbable triumphs in modern Scottish football.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Rangers almost snatched a late equaliser when Thelo Aasgaard headed against the crossbar, but Hearts held firm to claim another potentially defining victory in their extraordinary campaign. McInnes’ side once again demonstrated the resilience and belief that has carried them through the title race, while Shankland delivered yet another huge contribution in a season filled with decisive moments. With three games remaining, Hearts now stand tantalisingly close to a first league title since 1960 and one of the most improbable triumphs in modern Scottish football.`,
     goals: [
       { team: "Rangers", scorer: "D. Sterling", minute: "23" },
       { team: "Hearts", scorer: "S. Kingsley", minute: "54" },
@@ -6759,13 +6513,7 @@ export default [
 
     A frantic second half followed as Hearts pushed for a potentially decisive winner despite suffering major injury blows to Marc Leonard and Craig Halkett, both of whom damaged their Achilles tendons. The biggest controversy arrived when Hearts were denied what appeared to be a clear penalty after Tawanda Maswanhise stood on Alexandros Kyziridis’ foot inside the box. Referee Steven McLean was sent to the monitor by VAR but stunned both sets of players and supporters by sticking with his original decision not to award a spot-kick. 
 
-    Although disappointed not to take all three points, Hearts once again demonstrated the resilience and mentality that has defined their remarkable title challenge, coming from behind for the fifth consecutive match. McInnes’ side remain in control of their destiny and know victory over Falkirk in their penultimate fixture would leave them needing only to avoid defeat at Celtic Park to secure a first league title since 1960. Motherwell, meanwhile, continued their impressive campaign and remain well placed in the race for European football despite extending their winless run.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    Although disappointed not to take all three points, Hearts once again demonstrated the resilience and mentality that has defined their remarkable title challenge, coming from behind for the fifth consecutive match. McInnes’ side remain in control of their destiny and know victory over Falkirk in their penultimate fixture would leave them needing only to avoid defeat at Celtic Park to secure a first league title since 1960. Motherwell, meanwhile, continued their impressive campaign and remain well placed in the race for European football despite extending their winless run. `,
     goals: [
       { team: "Motherwell", scorer: "S. Kingsley (OG)", minute: "25" },
       { team: "Hearts", scorer: "L. Shankland", minute: "43" },
@@ -6944,13 +6692,7 @@ export default [
 
     As news filtered through from Motherwell’s clash with Celtic, emotions inside Tynecastle swung wildly throughout the evening. Hearts supporters briefly believed the title could be won there and then before Celtic fought back at Fir Park, but McInnes’ side maintained their focus impressively. Blair Spittal added a brilliant third goal late on, cutting inside and curling a superb finish into the bottom corner to cap another outstanding home performance from the league leaders.
 
-    The victory reinforced the resilience and belief that have driven Hearts’ extraordinary campaign, with key figures such as Kyziridis, Devlin and Spittal all influential on a night loaded with pressure. Although Celtic’s dramatic stoppage-time winner ensured the title race would go down to the final day, Hearts remain firmly in control of their destiny. Having already beaten Celtic once at Parkhead this season and remained unbeaten against them across all three league meetings, McInnes’ side head into the decisive showdown knowing one final result would complete one of Scottish football’s greatest modern fairytales.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    The victory reinforced the resilience and belief that have driven Hearts’ extraordinary campaign, with key figures such as Kyziridis, Devlin and Spittal all influential on a night loaded with pressure. Although Celtic’s dramatic stoppage-time winner ensured the title race would go down to the final day, Hearts remain firmly in control of their destiny. Having already beaten Celtic once at Parkhead this season and remained unbeaten against them across all three league meetings, McInnes’ side head into the decisive showdown knowing one final result would complete one of Scottish football’s greatest modern fairytales.`,
     goals: [
       { team: "Hearts", scorer: "F. Kent", minute: "29" },
       { team: "Hearts", scorer: "C. Devlin", minute: "34" },
@@ -7129,13 +6871,7 @@ export default [
 
     Hearts battled bravely after the restart and looked increasingly close to surviving the pressure as the clock ticked down. Celtic threatened repeatedly through Kelechi Iheanacho and Benjamin Nygren, but Alexander Schwolow produced important saves to keep Hearts level. Yet with only minutes remaining, the decisive blow finally arrived when Maeda flicked in an Osmand cross, with VAR correctly overturning an initial offside decision. As Hearts desperately pushed forward in search of the point they needed, Osmand broke away in stoppage time to score a third and spark emotional scenes inside the stadium. 
 
-    For Celtic, the comeback completed a stunning title recovery after trailing Hearts by eight points earlier in the season, while Martin O’Neill capped an extraordinary interim spell by delivering another championship to the club more than two decades after his previous reign. For Hearts, meanwhile, the defeat brought heartbreak at the end of a magnificent campaign that had captured the imagination across Scotland. McInnes’ side ultimately fell agonisingly short, but finishing above Rangers and pushing Celtic to the final minutes of the final day represented a remarkable achievement and the strongest sign yet that the club’s ambitious long-term project under Tony Bloom may genuinely reshape the Scottish game.
-
-
-<div class="references">
-  <span>Disclaimer:</span>
-  <span>Some of this information was gathered using AI assistance</span>
-</div>`,
+    For Celtic, the comeback completed a stunning title recovery after trailing Hearts by eight points earlier in the season, while Martin O’Neill capped an extraordinary interim spell by delivering another championship to the club more than two decades after his previous reign. For Hearts, meanwhile, the defeat brought heartbreak at the end of a magnificent campaign that had captured the imagination across Scotland. McInnes’ side ultimately fell agonisingly short, but finishing above Rangers and pushing Celtic to the final minutes of the final day represented a remarkable achievement and the strongest sign yet that the club’s ambitious long-term project under Tony Bloom may genuinely reshape the Scottish game. `,
     goals: [
       { team: "Hearts", scorer: "L. Shankland", minute: "43" },
       { team: "Celtic", scorer: "A. Engels (pen)", minute: "45+4" },

@@ -109,7 +109,7 @@ const matchImages = Object.entries(imageModules)
 
         {
           match.summary ? (
-            <p class="summary-text">{match.summary}</p>
+            <div class="summary-text" set:html={match.summary} />
           ) : (
             <div class="empty">Match summary coming soon.</div>
           )

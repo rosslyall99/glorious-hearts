@@ -1,0 +1,137 @@
+---
+const pageUrl = Astro.url.pathname;
+
+const isMatchPage = pageUrl.startsWith("/matches/");
+const isPlayerPage = pageUrl.startsWith("/players/");
+
+const introText = isPlayerPage
+  ? "Got a memory about this player?"
+  : isMatchPage
+    ? "Got a memory from this game?"
+    : "Got a Hearts memory?";
+---
+
+<div class="memory-widget" data-memory-widget>
+  <button class="memory-trigger" type="button" aria-expanded="false">
+    <span>Share a memory</span>
+    <img src="/favicon-32x32.png" alt="" class="memory-trigger-icon" />
+  </button>
+
+  <form class="memory-panel" hidden>
+    <button class="memory-close" type="button" aria-label="Close">×</button>
+
+    <h2>Share your memory</h2>
+    <p>{introText}<br />I’d love to hear it.</p>
+    <input type="hidden" name="page" value={pageUrl} />
+
+    <label>
+      Name
+      <input type="text" name="name" required />
+    </label>
+
+    <label>
+      <span class="memory-label-row">
+        <span>Email</span>
+
+        <span class="memory-info-wrap">
+          <button
+            class="memory-info"
+            type="button"
+            aria-label="Why include your email?"
+          >
+            i
+          </button>
+
+          <span class="memory-info-popover" role="tooltip">
+            I’d love to publish your memories on my site. If you’re happy for me
+            to do so, please include an email so I can contact you for
+            permission.
+          </span>
+        </span>
+      </span>
+
+      <input type="email" name="email" />
+    </label>
+
+    <label>
+      Your memory
+      <textarea name="message" rows="5" required></textarea>
+    </label>
+
+    <div class="memory-honeypot" aria-hidden="true">
+      <label>
+        Leave this blank
+        <input type="text" name="website" tabindex="-1" autocomplete="off" />
+      </label>
+    </div>
+
+    <button class="memory-submit" type="submit"> Send memory </button>
+
+    <p class="memory-status" aria-live="polite"></p>
+  </form>
+</div>
+
+<script>
+  const widget = document.querySelector("[data-memory-widget]");
+  const trigger = widget?.querySelector(".memory-trigger");
+  const panel = widget?.querySelector(".memory-panel") as HTMLElement | null;
+  const close = widget?.querySelector(".memory-close");
+  const form = widget?.querySelector("form") as HTMLFormElement | null;
+  const status = widget?.querySelector(".memory-status") as HTMLElement | null;
+
+  function openPanel() {
+    if (!panel || !trigger || !widget) return;
+    panel.hidden = false;
+    widget.classList.add("is-open");
+    trigger.setAttribute("aria-expanded", "true");
+  }
+
+  function closePanel() {
+    if (!panel || !trigger || !widget) return;
+    panel.hidden = true;
+    widget.classList.remove("is-open");
+    trigger.setAttribute("aria-expanded", "false");
+  }
+
+  trigger?.addEventListener("click", () => {
+    if (!panel) return;
+
+    if (panel.hidden) {
+      openPanel();
+    } else {
+      closePanel();
+    }
+  });
+
+  close?.addEventListener("click", closePanel);
+
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+
+    if (!form || !status) return;
+
+    status.textContent = "Sending...";
+
+    const formData = new FormData(form);
+
+    try {
+      const response = await fetch("/api/memory", {
+        method: "POST",
+        body: formData,
+      });
+
+      const result = await response.json();
+
+      if (!response.ok || !result.success) {
+        throw new Error(result.error || "Failed to send");
+      }
+
+      form.reset();
+      form.classList.add("is-sent");
+      status.textContent = "Thanks — your memory has been sent.";
+    } catch (error) {
+      status.textContent = "Sorry, something went wrong. Please try again.";
+      console.error(error);
+    }
+  });
+</script>
