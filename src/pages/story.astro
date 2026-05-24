@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
 <BaseLayout title="My Story | Hearts 2025/26">
-  <section class="hero">
+  <section class="hero" id="top">
     <img class="hero-badge" src="/favicon.png" alt="" />
 
     <div class="hero-inner">
@@ -35,8 +35,13 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <section id="early-years" class="match-section">
       <article class="panel story-panel" style="line-height:1.7">
         <button class="story-disclaimer" type="button" aria-expanded="false">
-          <span class="story-panel-title">The Early Years</span>
-          <span></span>
+          <span class="story-disclaimer-heading">
+            <span class="story-panel-title">The Early Years</span>
+            <small>
+              <a href="#top" class="back-to-top">Back to top ↑</a>
+            </small>
+          </span>
+
           <span class="story-warning">
             This section is hidden by default due to danger of extreme boredom.<br
             />
@@ -184,8 +189,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
     <section id="the-season" class="match-section">
       <article class="panel" style="line-height:1.7">
-        <div class="section-heading">
+        <div class="section-heading story-section-heading">
           <span>The Season</span>
+          <small>
+            <a href="#top" class="back-to-top">Back to top ↑</a>
+          </small>
         </div>
         <p>
           If you're just starting from here, I'd say you've missed nothing — but
@@ -486,8 +494,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
     <section id="the-future" class="match-section">
       <article class="panel" style="line-height:1.7">
-        <div class="section-heading">
+        <div class="section-heading story-section-heading">
           <span>The Future</span>
+          <small>
+            <a href="#top" class="back-to-top">Back to top ↑</a>
+          </small>
         </div>
         <p>
           What lies ahead for Heart of Midlothian Football Club in the future?
@@ -524,6 +535,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <script>
       const button = document.querySelector(".story-disclaimer");
       const panel = document.querySelector(".story-panel");
+      const backToTopLinks = document.querySelectorAll(
+        ".story-disclaimer .back-to-top",
+      );
+
+      backToTopLinks.forEach((link) => {
+        link.addEventListener("click", (event) => {
+          event.stopPropagation();
+        });
+      });
 
       button?.addEventListener("click", () => {
         const isOpen = panel?.classList.toggle("is-open");
